@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-07T23:02:14.895841",
+  "updated": "2026-05-08T11:03:58.292904",
   "total": 148,
   "items": [
     {
@@ -7,14 +7,6 @@
       "type": "evento",
       "year": "2026",
       "stream": "https://chocopopflow.github.io/webapp/TNTsLPF.html",
-      "genre": "Evento",
-      "source": "chocopop"
-    },
-    {
-      "title": "Aldosivi vs Racing | Apertura 2026 LPF",
-      "type": "evento",
-      "year": "2026",
-      "stream": "https://cableparatodoscan-varisscanop3-fl.blogspot.com/p/caneembeepucheedepop2.html?get=VE5UX1Nwb3J0c19IRA",
       "genre": "Evento",
       "source": "chocopop"
     },
@@ -387,11 +379,12 @@
       "source": "chocopop"
     },
     {
-      "title": "El patrón, radiografía de un crimen (2014)",
-      "type": "pelicula",
-      "year": "2014",
-      "stream": "https://vimeos.net/embed-ckacktrfmyp2.html",
-      "genre": "Drama, Crimen",
+      "title": "El homenaje (2026)",
+      "type": "serie",
+      "year": "2026",
+      "stream": "https://video.cuevana.st/?token=1UUJQCltOWwZFR0ZP&apl=0",
+      "seasons": "[{\"n\":1,\"eps\":[{\"t\":\"Episodio 1\",\"url\":\"https://video.cuevana.st/?token=1UUJQCltOWwZFR0ZP&apl=0\"},{\"t\":\"Episodio 2\",\"url\":\"https://video.cuevana.st/?token=1BAUMA1wHABFCRlVQ&apl=0\"},{\"t\":\"Episodio 3\",\"url\":\"https://video.cuevana.st/?token=1BlANVEFCEwBFA0cL&apl=0\"},{\"t\":\"Episodio 4\",\"url\":\"https://video.cuevana.st/?token=1BVNfHggDAA4eSlZf&apl=0\"},{\"t\":\"Episodio 5\",\"url\":\"https://video.cuevana.st/?token=1FUEACwBeBwxYXl1N&apl=0\"},{\"t\":\"Episodio 6\",\"url\":\"https://video.cuevana.st/?token=1U1ZDH1cCBw1EQwsN&apl=0\"},{\"t\":\"Episodio 7\",\"url\":\"https://video.cuevana.st/?token=1Ck5HEEgEWglHQlVV&apl=0\"},{\"t\":\"Episodio 8\",\"url\":\"https://video.cuevana.st/?token=1WF9AV1gBEA0cBwVb&apl=0\"}]}]",
+      "genre": "Drama",
       "source": "chocopop"
     },
     {
@@ -399,7 +392,7 @@
       "type": "serie",
       "year": "2024",
       "stream": "https://ok.ru/video/10165274741249",
-      "seasons": "[{\"n\":1,\"eps\":[{\"t\":\"Todo sobre Vicky\",\"url\":\"https://ok.ru/video/10165274741249\"},{\"t\":\"Barrilete cósmico\",\"url\":\"https://ok.ru/video/10165275068929\"},{\"t\":\"Ametralladora de likes\",\"url\":\"https://ok.ru/video/10165279197697\"},{\"t\":\"Leona pero no campeona\",\"url\":\"https://ok.ru/video/10165279263233\"},{\"t\":\"El juego de la vida\",\"url\":\"https://ok.ru/video/10165288634881\"},{\"t\":\"Pizza Delivery\",\"url\":\"https://ok.ru/video/10165290273281\"},{\"t\":\"Todas se casan menos vos\",\"url\":\"https://ok.ru/video/10165290600961\"},{\"t\":\"Rota y Roto\",\"url\":\"https://ok.ru/video/10165296433665\"},{\"t\":\"Historia clínica\",\"url\":\"https://ok.ru/video/10165296499201\"},{\"t\":\"Un zapato feo y cómodo\",\"url\":\"https://ok.ru/video/10165301414401\"},{\"t\":\"Mujer quilombo\",\"url\":\"https://ok.ru/video/10165301348865\"},{\"t\":\"La sirenita\",\"url\":\"https://ok.ru/video/10165284899329\"}]},{\"n\":2,\"eps\":[{\"t\":\"Choque de frente\",\"url\":\"https://ok.ru/video/14556635466436\"},{\"t\":\"La secta\",\"url\":\"https://ok.ru/video/14556636056260\"},{\"t\":\"Viajar en primera\",\"url\":\"https://ok.ru/video/14556636121796\"},{\"t\":\"Segundo Francia\",\"url\":\"https://ok.ru/video/14556636252868\"}]},{\"n\":3,\"eps\":[{\"t\":\"Plantar bandera\",\"url\":\"https://ok.ru/video/10183665388033\"},{\"t\":\"Un vaso de agua\",\"url\":\"https://ok.ru/video/10183665781249\"},{\"t\":\"Robocop\",\"url\":\"https://ok.ru/video/10183666567681\"},{\"t\":\"Vaca vieja\",\"url\":\"https://ok.ru/video/10183666960897\"},{\"t\":\"Alcohol, patria y familia\",\"url\":\"https://ok.ru/video/10183667157505\"},{\"t\":\"Mina de minas\",\"url\":\"https://ok.ru/video/10183667354113\"},{\"t\":\"La pájara loca\",\"url\":\"https://ok.ru/video/10183667485185\"},{\"t\":\"Mala madre\",\"url\":\"https://ok.ru/video/10183667943937\"},{\"t\":\"Perdiendo aceite\",\"url\":\"https://ok.ru/video/10183668271617\"},{\"t\":\"El pan y la torta\",\"url\":\"https://ok.ru/video/10183668468225\"}]},{\"n\":4,\"eps\":[{\"t\":\"Madre en pausa\",\"url\":\"https://ok.ru/video/14765673417383\"},{\"t\":\"Pack de 3\",\"url\":\"https://ok.ru/video/14765673417383\"},{\"t\":\"El peor cliente\",\"url\":\"https://ok.ru/video/14765676235431\"},{\"t\":\"Manual de supervivencia\",\"url\":\"https://ok.ru/video/14765679446695\"},{\"t\":\"La nueva Marcela\",\"url\":\"https://ok.ru/video/14767910685351\"},{\"t\":\"Familia ensamblada\",\"url\":\"https://ok.ru/video/14780953922215\"},{\"t\":\"Llamado de atención\",\"url\":\"https://ok.ru/video/14781739698855\"},{\"t\":\"Viaje al pasado\",\"url\":\"https://ok.ru/video/14784540904103\"},{\"t\":\"Equipo ganador\",\"url\":\"https://ok.ru/video/14784544377511\"},{\"t\":\"Una familia real\",\"url\":\"https://ok.ru/video/14784547523239\"}]}]",
+      "seasons": "[{\"n\":1,\"eps\":[{\"t\":\"Todo sobre Vicky\",\"url\":\"https://ok.ru/video/10165274741249\"},{\"t\":\"Barrilete cósmico\",\"url\":\"https://ok.ru/video/10165275068929\"},{\"t\":\"Ametralladora de likes\",\"url\":\"https://ok.ru/video/10165279197697\"},{\"t\":\"Leona pero no campeona\",\"url\":\"https://ok.ru/video/10165279263233\"},{\"t\":\"El juego de la vida\",\"url\":\"https://ok.ru/video/10165288634881\"},{\"t\":\"Pizza Delivery\",\"url\":\"https://ok.ru/video/10165290273281\"},{\"t\":\"Todas se casan menos vos\",\"url\":\"https://ok.ru/video/10165290600961\"},{\"t\":\"Rota y Roto\",\"url\":\"https://ok.ru/video/10165296433665\"},{\"t\":\"Historia clínica\",\"url\":\"https://ok.ru/video/10165296499201\"},{\"t\":\"Un zapato feo y cómodo\",\"url\":\"https://ok.ru/video/10165301414401\"},{\"t\":\"Mujer quilombo\",\"url\":\"https://ok.ru/video/10165301348865\"},{\"t\":\"La sirenita\",\"url\":\"https://ok.ru/video/10165284899329\"}]},{\"n\":2,\"eps\":[{\"t\":\"Choque de frente\",\"url\":\"https://video.cuevana.st/?token=1UFwGHEMHFxBDXV0K&apl=0\"},{\"t\":\"Quien dice el doble, dice el triple\",\"url\":\"https://video.cuevana.st/?token=1UUJaAFROGxdcWgFX&apl=0\"},{\"t\":\"Hay un hueco\",\"url\":\"https://video.cuevana.st/?token=1AgICB11aFABDAkFO&apl=0\"},{\"t\":\"La secta\",\"url\":\"https://video.cuevana.st/?token=1A1FUDVpMWhNdAQZU&apl=0\"},{\"t\":\"Viajar en primera\",\"url\":\"https://video.cuevana.st/?token=1CA0FVFtdWxwUCwpN&apl=0\"},{\"t\":\"Ninja del amor\",\"url\":\"https://video.cuevana.st/?token=1DV5WDlEMClcVAQJM&apl=0\"},{\"t\":\"Pata o muslo\",\"url\":\"https://video.cuevana.st/?token=1BQRNCFxbAgJeC1pU&apl=0\"},{\"t\":\"Segundo Francia\",\"url\":\"https://video.cuevana.st/?token=1GQYMVkBABVwURkcK&apl=0\"},{\"t\":\"Mundo de casualidades\",\"url\":\"https://video.cuevana.st/?token=1FVtZB0pfFVNUXlRK&apl=0\"},{\"t\":\"Licenciada en Maternidad\",\"url\":\"https://video.cuevana.st/?token=1FkIHU0BZAA9YUQoK&apl=0\"},{\"t\":\"Un desayuno perfecto\",\"url\":\"https://video.cuevana.st/?token=1AkwCUQhDWgpIVwQA&apl=0\"}]},{\"n\":3,\"eps\":[{\"t\":\"Plantar bandera\",\"url\":\"https://video.cuevana.st/?token=1DlhFVVhXCQJKWQMJ&apl=0\"},{\"t\":\"Un vaso de agua\",\"url\":\"https://video.cuevana.st/?token=1DwFeEVwEBAlKXERY&apl=0\"},{\"t\":\"Robocop\",\"url\":\"https://video.cuevana.st/?token=1VwVFFFYEC1VKXwQO&apl=0\"},{\"t\":\"Vaca vieja\",\"url\":\"https://video.cuevana.st/?token=1UFVDFgRTUAAfXgNc&apl=0\"},{\"t\":\"Alcohol, patria y familia\",\"url\":\"https://video.cuevana.st/?token=1DQNMCANWUwFIWUdJ&apl=0\"},{\"t\":\"Mina de minas\",\"url\":\"https://video.cuevana.st/?token=1DE5GVkVcVxVKQl1e&apl=0\"},{\"t\":\"La pájara loca\",\"url\":\"https://video.cuevana.st/?token=1Bg0NUwNZCwhCXVFR&apl=0\"},{\"t\":\"Mala madre\",\"url\":\"https://video.cuevana.st/?token=1AkdaClRGExJfUUcJ&apl=0\"},{\"t\":\"Perdiendo aceite\",\"url\":\"https://video.cuevana.st/?token=1UQJGDlUEEgoVW0Vc&apl=0\"},{\"t\":\"El pan y la torta\",\"url\":\"https://video.cuevana.st/?token=1EU5ADlVDGwJCC0dW&apl=0\"}]},{\"n\":4,\"eps\":[{\"t\":\"Madre en pausa\",\"url\":\"https://ok.ru/video/14765673417383\"},{\"t\":\"Pack de 3\",\"url\":\"https://ok.ru/video/14765673417383\"},{\"t\":\"El peor cliente\",\"url\":\"https://ok.ru/video/14765676235431\"},{\"t\":\"Manual de supervivencia\",\"url\":\"https://ok.ru/video/14765679446695\"},{\"t\":\"La nueva Marcela\",\"url\":\"https://ok.ru/video/14767910685351\"},{\"t\":\"Familia ensamblada\",\"url\":\"https://ok.ru/video/14780953922215\"},{\"t\":\"Llamado de atención\",\"url\":\"https://ok.ru/video/14781739698855\"},{\"t\":\"Viaje al pasado\",\"url\":\"https://ok.ru/video/14784540904103\"},{\"t\":\"Equipo ganador\",\"url\":\"https://ok.ru/video/14784544377511\"},{\"t\":\"Una familia real\",\"url\":\"https://ok.ru/video/14784547523239\"}]}]",
       "genre": "Comedia, Drama",
       "source": "chocopop"
     },
@@ -571,6 +564,15 @@
       "stream": "https://ok.ru/video/13923006876337",
       "seasons": "[{\"n\":1,\"eps\":[{\"t\":\"Episodio 1\",\"url\":\"https://ok.ru/video/13923006876337\"},{\"t\":\"Episodio 2\",\"url\":\"https://ok.ru/video/13923006941873\"},{\"t\":\"Episodio 3\",\"url\":\"https://ok.ru/video/13923007269553\"}]}]",
       "genre": "Drama",
+      "source": "chocopop"
+    },
+    {
+      "title": "La casa del dragón (2022)",
+      "type": "serie",
+      "year": "2022",
+      "stream": "https://vimeos.net/embed-7ny4vvdwblcm.html",
+      "seasons": "[{\"n\":1,\"eps\":[{\"t\":\"Episodio 1\",\"url\":\"https://vimeos.net/embed-7ny4vvdwblcm.html\"},{\"t\":\"Episodio 2\",\"url\":\"https://vimeos.net/embed-pygtc8rwwmhu.html\"},{\"t\":\"Episodio 3\",\"url\":\"https://vimeos.net/embed-rslylbr3nv9l.html\"},{\"t\":\"Episodio 4\",\"url\":\"https://vimeos.net/embed-uiw0o5mzxv7b.html\"},{\"t\":\"Episodio 5\",\"url\":\"https://vimeos.net/embed-xtqbgs2qa73x.html\"},{\"t\":\"Episodio 6\",\"url\":\"https://vimeos.net/embed-y3432llylgdl.html\"},{\"t\": \"Episodio 7\",\"url\":\"https://vimeos.net/embed-usi6vjeyw31p.html\"},{\"t\":\"Episodio 8\",\"url\":\"https://vimeos.net/embed-5rh0z1vh2tiy.html\"},{\"t\":\"Episodio 9\",\"url\":\"https://vimeos.net/embed-wy3wfrb1349x.html\"},{\"t\":\"Episodio 10\",\"url\":\"https://vimeos.net/embed-iybnkjr1atmk.html\"}]},{\"n\":2,\"eps\":[{\"t\":\"Episodio 1\",\"url\":\"https://vimeos.net/embed-qsot3e9qy5l9.html\"},{\"t\":\"Episodio 2\",\"url\":\"https://vimeos.net/embed-aloij9qh7k4r.html\"},{\"t\":\"Episodio 3\",\"url\":\"https://vimeos.net/embed-ccm1l6ssjjq2.html\"},{\"t\":\"Episodio 4\",\"url\":\"https://vimeos.net/embed-wyyelkhd1wbg.html\"},{\"t\":\"Episodio 5\",\"url\":\"https://vimeos.net/embed-e6wda4cb88rm.html\"},{\"t\":\"Episodio 6\",\"url\":\"https://vimeos.net/embed-vemhs2cjca7d.html\"},{\"t\":\"Episodio 7\",\"url\":\"https://vimeos.net/embed-ejkw3mq5n8da.html\"},{\"t\":\"Episodio 8\",\"url\":\"https://vimeos.net/embed-77di1vud68rp.html\"}]}]",
+      "genre": "Sci-Fi & Fantasy, Drama, Action & Adventure",
       "source": "chocopop"
     },
     {
@@ -864,14 +866,6 @@
       "source": "chocopop"
     },
     {
-      "title": "River vs Boca | Apertura 2026 LPF",
-      "type": "evento",
-      "year": "2026",
-      "stream": "https://todossembbbbdeeelosscanaquii.blogspot.com/p/caneembeepucheedepoflop1.html?get=Rm94X1Nwb3J0c19QcmVtaXVuX0hE",
-      "genre": "Evento",
-      "source": "chocopop"
-    },
-    {
       "title": "Rob1n: El poseído (2025)",
       "type": "pelicula",
       "year": "2025",
@@ -942,6 +936,15 @@
       "stream": "https://multiembed.mov/?video_id=259856&tmdb=1&s=1&e=1",
       "seasons": "[{\"n\":1,\"eps\":[{\"t\":\"La noche de las sirenas\",\"url\":\"https://multiembed.mov/?video_id=259856&tmdb=1&s=1&e=1\"},{\"t\":\"Sentimientos encontrados\",\"url\":\"https://multiembed.mov/?video_id=259856&tmdb=1&s=1&e=2\"},{\"t\":\"‘Quid pro quo’\",\"url\":\"https://multiembed.mov/?video_id=259856&tmdb=1&s=1&e=3\"},{\"t\":\"Minuto de silencio\",\"url\":\"https://multiembed.mov/?video_id=259856&tmdb=1&s=1&e=4\"},{\"t\":\"Cantos de sirena\",\"url\":\"https://multiembed.mov/?video_id=259856&tmdb=1&s=1&e=5\"},{\"t\":\"La cena\",\"url\":\"https://multiembed.mov/?video_id=259856&tmdb=1&s=1&e=6\"},{\"t\":\"‘Incel’\",\"url\":\"https://multiembed.mov/?video_id=259856&tmdb=1&s=1&e=7\"},{\"t\":\"Un padre\",\"url\":\"https://multiembed.mov/?video_id=259856&tmdb=1&s=1&e=8\"}]}]",
       "genre": "Drama, Misterio",
+      "source": "chocopop"
+    },
+    {
+      "title": "Samurái de ojos azules (2023)",
+      "type": "serie",
+      "year": "2023",
+      "stream": "https://video.cuevana.st/?token=1E1xaDFcEVwRCVwtA&apl=0",
+      "seasons": "[{\"n\":1,\"eps\":[{\"t\":\"Impureza\",\"url\":\"https://video.cuevana.st/?token=1E1xaDFcEVwRCVwtA&apl=0\"},{\"t\":\"Un elemento inesperado\",\"url\":\"https://video.cuevana.st/?token=1EFZQBwNTDwIcRFlV&apl=0\"},{\"t\":\"Un número limitado de caminos\",\"url\":\"https://video.cuevana.st/?token=1FgRHCwhQVVxEAVhB&apl=0\"},{\"t\":\"Peculiaridades\",\"url\":\"https://video.cuevana.st/?token=1VkxPCkQGFBBJX19X&apl=0\"},{\"t\":\"La historia del ronin y su esposa\",\"url\":\"https://video.cuevana.st/?token=1VlFMBwJFVQIfAV5N&apl=0\"},{\"t\":\"Los sueños maléficos y enojos\",\"url\":\"https://video.cuevana.st/?token=1WERbDQkNU1UZRkRV&apl=0\"},{\"t\":\"Nada se rompe\",\"url\":\"https://video.cuevana.st/?token=1UVZaDFEDDgJZQwpe&apl=0\"},{\"t\":\"El gran incendio de 1657\",\"url\":\"https://video.cuevana.st/?token=1AlcCHAUBCxxdUwdb&apl=0\"}]}]",
+      "genre": "Action & Adventure, Animación",
       "source": "chocopop"
     },
     {

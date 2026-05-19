@@ -1,6 +1,6 @@
 {
-  "updated": "2026-05-19T12:34:08.834497",
-  "total": 148,
+  "updated": "2026-05-19T23:05:47.856166",
+  "total": 149,
   "items": [
     {
       "title": "Aldosivi vs Independiente (M) | Apertura 2026 LPF",
@@ -15,6 +15,14 @@
       "type": "evento",
       "year": "2026",
       "stream": "https://jjfutbol2.lat/evento.php?proxy=https%3A%2F%2Fcgxheq.fubohd.com%3A443%2Fespn7%2Fmono.m3u8%3Ftoken%3D75a682a70e9b4bcc3fe876090680505571718d76-78-1778044300-1778026300",
+      "genre": "Evento",
+      "source": "chocopop"
+    },
+    {
+      "title": "America de Cali vs Tigre | Sudamericana 2026",
+      "type": "evento",
+      "year": "2026",
+      "stream": "https://la14hd.com/vivo/canales.php?stream=dsports",
       "genre": "Evento",
       "source": "chocopop"
     },
@@ -52,6 +60,14 @@
       "source": "chocopop"
     },
     {
+      "title": "Audax Italiano vs Barracas | Sudamericana 2026",
+      "type": "evento",
+      "year": "2026",
+      "stream": "https://todossembbbbdeeelosscanaquii.blogspot.com/p/cantodosflooonueeepuchee-essmmmbee-op1.html?get=RVNQTjQ=",
+      "genre": "Evento",
+      "source": "chocopop"
+    },
+    {
       "title": "Banfield vs San Martín (T) | Copa Argentina 2026",
       "type": "evento",
       "year": "2026",
@@ -72,14 +88,6 @@
       "type": "evento",
       "year": "2026",
       "stream": "https://streamtp-abc.net/global1.php?stream=espnplus3",
-      "genre": "Evento",
-      "source": "chocopop"
-    },
-    {
-      "title": "Barracas vs Audax Italiano | Sudamericana 2026",
-      "type": "evento",
-      "year": "2026",
-      "stream": "https://streamtpnew.com/global1.php?stream=disney5",
       "genre": "Evento",
       "source": "chocopop"
     },
@@ -112,6 +120,14 @@
       "type": "evento",
       "year": "2026",
       "stream": "https://todossembbbbdeeelosscanaquii.blogspot.com/p/cantodosflooonueeepuchee-essmmmbee-op1.html?get=Rm94X1Nwb3J0c19QcmVtaXVuX0hE",
+      "genre": "Evento",
+      "source": "chocopop"
+    },
+    {
+      "title": "Boca vs Cruzeiro | Libertadores 2026",
+      "type": "evento",
+      "year": "2026",
+      "stream": "https://todossembbbbdeeelosscanaquii.blogspot.com/p/cantodosflooonueeepuchee-essmmmbee-op1.html?get=Rm94U3BvcnRz",
       "genre": "Evento",
       "source": "chocopop"
     },
@@ -246,14 +262,6 @@
       "source": "chocopop"
     },
     {
-      "title": "Cruzeiro vs Boca | Libertadores 2026",
-      "type": "evento",
-      "year": "2026",
-      "stream": "https://todossembbbbdeeelosscanaquii.blogspot.com/p/caneembeepucheedepoflop1.html?get=Rm94U3BvcnRz",
-      "genre": "Evento",
-      "source": "chocopop"
-    },
-    {
       "title": "Cusco FC vs Estudiantes (LP) | Libertadores 2026",
       "type": "evento",
       "year": "2026",
@@ -383,29 +391,11 @@
       "source": "chocopop"
     },
     {
-      "title": "El Embarcadero (2019)",
-      "type": "serie",
-      "year": "2019",
-      "stream": "https://lacajalgbt.site/?trembed=0&trid=37922",
-      "seasons": "[{\"n\":1,\"eps\":[{\"t\":\"Episodio 1\",\"url\":\"https://lacajalgbt.site/?trembed=0&trid=37922\"},{\"t\":\"Episodio 2\",\"url\":\"https://lacajalgbt.site/?trembed=0&trid=37923&trtype=2\"},{\"t\":\"Episodio 3\",\"url\":\"https://lacajalgbt.site/?trembed=0&trid=37924&trtype=2\"},{\"t\":\"Episodio 4\",\"url\":\"https://lacajalgbt.site/?trembed=0&trid=37925&trtype=2\"},{\"t\":\"Episodio 5\",\"url\":\"https://lacajalgbt.site/?trembed=0&trid=37926&trtype=2\"},{\"t\":\"Episodio 6\",\"url\":\"https://lacajalgbt.site/?trembed=0&trid=37927&trtype=2\"},{\"t\":\"Episodio 7\",\"url\":\"https://lacajalgbt.site/?trembed=0&trid=37928&trtype=2\"},{\"t\":\"Episodio 8\",\"url\":\"https://lacajalgbt.site/?trembed=0&trid=37929&trtype=2\"}]},{\"n\":2,\"eps\":[{\"t\":\"Episodio 1\",\"url\":\"https://lacajalgbt.site/?trembed=0&trid=38293&trtype=2\"},{\"t\":\"Episodio 2\",\"url\":\"https://lacajalgbt.site/?trembed=0&trid=38294&trtype=2\"},{\"t\":\"Episodio 3\",\"url\":\"https://lacajalgbt.site/?trembed=0&trid=38295&trtype=2\"},{\"t\":\"Episodio 4\",\"url\":\"https://lacajalgbt.site/?trembed=0&trid=38296&trtype=2\"},{\"t\":\"Episodio 5\",\"url\":\"https://lacajalgbt.site/?trembed=0&trid=38297&trtype=2\"},{\"t\":\"Episodio 6\",\"url\":\"https://lacajalgbt.site/?trembed=0&trid=38298&trtype=2\"},{\"t\":\"Episodio 7\",\"url\":\"https://lacajalgbt.site/?trembed=0&trid=38299&trtype=2\"},{\"t\":\"Episodio 8\",\"url\":\"https://lacajalgbt.site/?trembed=0&trid=38300&trtype=2\"}]}]",
-      "genre": "Drama, Misterio, Crimen",
-      "source": "chocopop"
-    },
-    {
       "title": "El Libro del Amor (Book of Love) (2022)",
       "type": "pelicula",
       "year": "2022",
       "stream": "https://vimeos.net/embed-sxo4vy0gna99.html",
       "genre": "Comedia, Romance, Drama",
-      "source": "chocopop"
-    },
-    {
-      "title": "El caballero de los Siete Reinos (2026)",
-      "type": "serie",
-      "year": "2026",
-      "stream": "https://vimeos.net/embed-2jgybzcof3h2.html",
-      "seasons": "[{\"n\":1,\"eps\":[{\"t\":\"El caballero errante\",\"url\":\"https://vimeos.net/embed-2jgybzcof3h2.html\"},{\"t\":\"Carne Salada\",\"url\":\"https://vimeos.net/embed-mrknbdc8279d.html\"},{\"t\":\"El Escudero\",\"url\":\"https://vimeos.net/embed-tsqa1ctpfysp.html\"},{\"t\":\"Siete\",\"url\":\"https://vimeos.net/embed-z7yta6eh1j33.html\"},{\"t\":\"En nombre de la Madre\",\"url\":\"https://vimeos.net/embed-df373yttfa18.html\"},{\"t\":\"El Mañana⁩\",\"url\":\"https://vimeos.net/embed-hp7myp4pqzlw.html\"}]}]",
-      "genre": "Drama, Sci-Fi & Fantasy, Action & Adventure",
       "source": "chocopop"
     },
     {
@@ -614,6 +604,14 @@
       "source": "chocopop"
     },
     {
+      "title": "Independiente Santa Fe vs Platense | Libertadores 2026",
+      "type": "evento",
+      "year": "2026",
+      "stream": "https://todossembbbbdeeelosscanaquii.blogspot.com/p/cantodosflooonueeepuchee-essmmmbee-op1.html?get=Rm94U3BvcnRzMkhE",
+      "genre": "Evento",
+      "source": "chocopop"
+    },
+    {
       "title": "Intercambiados (2026)",
       "type": "pelicula",
       "year": "2026",
@@ -677,6 +675,14 @@
       "year": "1988",
       "stream": "https://vimeos.net/embed-nuwdc5k32ko1.html",
       "genre": "Animación, Drama, Bélica",
+      "source": "chocopop"
+    },
+    {
+      "title": "La Ventana Secreta (2004)",
+      "type": "pelicula",
+      "year": "2004",
+      "stream": "https://vimeos.net/embed-2defiwhxx1jj.html",
+      "genre": "Misterio, Suspense",
       "source": "chocopop"
     },
     {
@@ -797,6 +803,15 @@
       "source": "chocopop"
     },
     {
+      "title": "Los Enviados (2021)",
+      "type": "serie",
+      "year": "2021",
+      "stream": "https://video.cuevana3.cz/?token=1VERWDAIEWwkdQkJY&apl=0",
+      "seasons": "[{\"n\":1,\"eps\":[{\"t\":\"Episodio 1\",\"url\":\"https://video.cuevana3.cz/?token=1VERWDAIEWwkdQkJY&apl=0\"},{\"t\":\"Episodio 2\",\"url\":\"https://video.cuevana3.cz/?token=1GVIMD1hVEhEbSlda&apl=0\"},{\"t\":\"Episodio 3\",\"url\":\"https://video.cuevana3.cz/?token=1DENeA15HABJcRQZX&apl=0\"},{\"t\":\"Episodio 4\",\"url\":\"https://video.cuevana3.cz/?token=1VAFWF0cHGQ5AAAJX&apl=0\"},{\"t\":\"Episodio 5\",\"url\":\"https://video.cuevana3.cz/?token=1UFpYBF5MUgcaRQVe&apl=0\"},{\"t\":\"Episodio 6\",\"url\":\"https://video.cuevana3.cz/?token=1EVZQBANeBQ4aBgQB&apl=0\"},{\"t\":\"Episodio 7\",\"url\":\"https://video.cuevana3.cz/?token=1AE4GD1ICBAEfA0UA&apl=0\"},{\"t\":\"Episodio 8\",\"url\":\"https://video.cuevana3.cz/?token=1BQJZXgREVldBVVdD&apl=0\"}]},{\"n\":2,\"eps\":[{\"t\":\"Episodio 1\",\"url\":\"https://video.cuevana3.cz/?token=1DVxQDERBCVBCSFwO&apl=0\"},{\"t\":\"Episodio 2\",\"url\":\"https://video.cuevana3.cz/?token=1VEVfHghaERIfC1xL&apl=0\"},{\"t\":\"Episodio 3\",\"url\":\"https://video.cuevana3.cz/?token=1Ul8GCl5OV1cbQAdW&apl=0\"},{\"t\":\"Episodio 4\",\"url\":\"https://video.cuevana3.cz/?token=1DEBTDV0FVxVZAUZd&apl=0\"},{\"t\":\"Episodio 5\",\"url\":\"https://video.cuevana3.cz/?token=1F0NUC0hbU1xCUVRI&apl=0\"},{\"t\":\"Episodio 6\",\"url\":\"https://video.cuevana3.cz/?token=1CVpYB1NDDVBBXQsL&apl=0\"},{\"t\":\"Episodio 7\",\"url\":\"https://video.cuevana3.cz/?token=1UQNYBVtEUlwbR1BY&apl=0\"},{\"t\":\"Episodio 8\",\"url\":\"https://video.cuevana3.cz/?token=1B0YDXkMME1xfW1tR&apl=0\"}]}]",
+      "genre": "Drama, Misterio",
+      "source": "chocopop"
+    },
+    {
       "title": "Los Ilusionistas 2 (2016)",
       "type": "pelicula",
       "year": "2016",
@@ -914,7 +929,7 @@
       "type": "serie",
       "year": "2024",
       "stream": "https://ok.ru/video/7271513066046",
-      "seasons": "[{\"n\":1,\"eps\":[{\"t\":\"Por encima de todo\",\"url\":\"https://ok.ru/video/7271513066046\"},{\"t\":\"Madera de médico\",\"url\":\"https://ok.ru/video/7271515163198\"},{\"t\":\"Paramos\",\"url\":\"https://ok.ru/video/7271519881790\"},{\"t\":\"Confío en ti\",\"url\":\"https://ok.ru/video/7271521782334\"},{\"t\":\"Huelga\",\"url\":\"https://ok.ru/video/7271525714494\"},{\"t\":\"El último hombre en pie\",\"url\":\"https://ok.ru/video/7271528270398\"},{\"t\":\"Tierra quemada\",\"url\":\"https://ok.ru/video/7271531481662\"},{\"t\":\"Gota fría\",\"url\":\"https://ok.ru/video/7271536265790\"}]}]",
+      "seasons": "[{\"n\":1,\"eps\":[{\"t\":\"Por encima de todo\",\"url\":\"https://ok.ru/video/7271513066046\"},{\"t\":\"Madera de médico\",\"url\":\"https://ok.ru/video/7271515163198\"},{\"t\":\"Paramos\",\"url\":\"https://ok.ru/video/7271519881790\"},{\"t\":\"Confío en ti\",\"url\":\"https://ok.ru/video/7271521782334\"},{\"t\":\"Huelga\",\"url\":\"https://ok.ru/video/7271525714494\"},{\"t\":\"El último hombre en pie\",\"url\":\"https://ok.ru/video/7271528270398\"},{\"t\":\"Tierra quemada\",\"url\":\"https://ok.ru/video/7271531481662\"},{\"t\":\"Gota fría\",\"url\":\"https://ok.ru/video/7271536265790\"}]},{\"n\":2,\"eps\":[{\"t\":\"Episodio 1\",\"url\":\"https://video.cuevana3.cz/?token=1AABHX0hBCg0dAERV&apl=0\"},{\"t\":\"Episodio 2\",\"url\":\"https://video.cuevana3.cz/?token=1DVVUEFlZVlRGRVJJ&apl=0\"},{\"t\":\"Episodio 3\",\"url\":\"https://video.cuevana3.cz/?token=1VwdFE0FRWgofAQNX&apl=0\"},{\"t\":\"Episodio 4\",\"url\":\"https://video.cuevana3.cz/?token=1DAFFUUZRUBxGUFlV&apl=0\"},{\"t\":\"Episodio 5\",\"url\":\"https://video.cuevana3.cz/?token=1F1pUDAdEGwRBWltQ&apl=0\"},{\"t\":\"Episodio 6\",\"url\":\"https://video.cuevana3.cz/?token=1AFMFF1JcAgsaXlFO&apl=0\"},{\"t\":\"Episodio 7\",\"url\":\"https://video.cuevana3.cz/?token=1G0dcCAhdDxNZX0JB&apl=0\"},{\"t\":\"Episodio 8\",\"url\":\"https://video.cuevana3.cz/?token=1EQRXVwFVEQIcB0sB&apl=0\"}]}]",
       "genre": "Drama",
       "source": "chocopop"
     },
@@ -991,6 +1006,14 @@
       "source": "chocopop"
     },
     {
+      "title": "Rosario Central vs Universidad Central FC | Libertadores 2026",
+      "type": "evento",
+      "year": "2026",
+      "stream": "https://todossembbbbdeeelosscanaquii.blogspot.com/p/cantodosflooonueeepuchee-essmmmbee-op1.html?get=Rm94U3BvcnRzMkhE",
+      "genre": "Evento",
+      "source": "chocopop"
+    },
+    {
       "title": "Salvador (2026)",
       "type": "serie",
       "year": "2026",
@@ -1042,14 +1065,6 @@
       "source": "chocopop"
     },
     {
-      "title": "Siempre sabré lo que hicieron el verano pasado (2006)",
-      "type": "pelicula",
-      "year": "2006",
-      "stream": "https://ok.ru/videoembed/9667604908554",
-      "genre": "Terror",
-      "source": "chocopop"
-    },
-    {
       "title": "Slam Dunk: La Película (2022)",
       "type": "pelicula",
       "year": "2022",
@@ -1071,22 +1086,6 @@
       "year": "1993",
       "stream": "https://ok.ru/videoembed/9716361726652",
       "genre": "Aventura, Fantasía, Comedia, Familia",
-      "source": "chocopop"
-    },
-    {
-      "title": "Sé lo que hicieron el verano pasado (1997)",
-      "type": "pelicula",
-      "year": "1997",
-      "stream": "https://vimeos.net/embed-ywecmu1nd3zn.html",
-      "genre": "Terror, Suspense, Misterio",
-      "source": "chocopop"
-    },
-    {
-      "title": "Sé lo que hicieron el verano pasado (2025)",
-      "type": "pelicula",
-      "year": "2025",
-      "stream": "https://vimeos.net/embed-sqilg5x3iojf.html",
-      "genre": "Terror, Suspense, Misterio",
       "source": "chocopop"
     },
     {
@@ -1122,11 +1121,11 @@
       "source": "chocopop"
     },
     {
-      "title": "Todavía sé lo que hicieron el verano pasado (1998)",
-      "type": "pelicula",
-      "year": "1998",
-      "stream": "https://vimeos.net/embed-ftr5gm4kaqdv.html",
-      "genre": "Terror, Misterio, Suspense",
+      "title": "Torque vs Deportivo Riestra | Sudamericana 2026",
+      "type": "evento",
+      "year": "2026",
+      "stream": "https://la14hd.com/vivo/canales.php?stream=dsports",
+      "genre": "Evento",
       "source": "chocopop"
     },
     {
@@ -1143,6 +1142,15 @@
       "year": "2026",
       "stream": "https://la14hd.com/vivo/canales.php?stream=espnpremium",
       "genre": "Evento",
+      "source": "chocopop"
+    },
+    {
+      "title": "Vivir sin permiso (2018)",
+      "type": "serie",
+      "year": "2018",
+      "stream": "https://video.cuevana3.cz/?token=1UQZbE0peERwZBVIP&apl=0",
+      "seasons": "[{\"n\":1,\"eps\":[{\"t\":\"Episodio 1\",\"url\":\"https://video.cuevana3.cz/?token=1UQZbE0peERwZBVIP&apl=0\"},{\"t\":\"Episodio 2\",\"url\":\"https://video.cuevana3.cz/?token=1GEJAAQMDDRQfAQJc&apl=0\"},{\"t\":\"Episodio 3\",\"url\":\"https://video.cuevana3.cz/?token=1BQINDUVWCRdUV1lJ&apl=0\"},{\"t\":\"Episodio 4\",\"url\":\"https://video.cuevana3.cz/?token=1D0FXCEdTVg1HU1le&apl=0\"},{\"t\":\"Episodio 5\",\"url\":\"https://video.cuevana3.cz/?token=1DAEBVUZWUVxAXUFK&apl=0\"},{\"t\":\"Episodio 6\",\"url\":\"https://video.cuevana3.cz/?token=1DQBNCF8DVR9DXV5e&apl=0\"},{\"t\":\"Episodio 7\",\"url\":\"https://video.cuevana3.cz/?token=1F0IEDVFCClUcX1JT&apl=0\"},{\"t\":\"Episodio 8\",\"url\":\"https://video.cuevana3.cz/?token=1GFBSUkUNWlcdB1RD&apl=0\"},{\"t\":\"Episodio 9\",\"url\":\"https://video.cuevana3.cz/?token=1CkZZEFNQDx1eQVZf&apl=0\"},{\"t\":\"Episodio 10\",\"url\":\"https://video.cuevana3.cz/?token=1UVoFV0MDEBJCRwMK&apl=0\"},{\"t\":\"Episodio 11\",\"url\":\"https://video.cuevana3.cz/?token=1AwBAB0RCCh9VVQVB&apl=0\"},{\"t\":\"Episodio 12\",\"url\":\"https://video.cuevana3.cz/?token=1VEFNBUJaVBNdRgJN&apl=0\"},{\"t\":\"Episodio 13\",\"url\":\"https://video.cuevana3.cz/?token=1FkIBDEpVAgYZVgZM&apl=0\"}]},{\"n\":2,\"eps\":[{\"t\":\"Episodio 1\",\"url\":\"https://video.cuevana3.cz/?token=1EwBQDkZEDAFeUUFQ&apl=0\"},{\"t\":\"Episodio 2\",\"url\":\"https://video.cuevana3.cz/?token=1F0JXEVMDB1dLXF5Y&apl=0\"},{\"t\":\"Episodio 3\",\"url\":\"https://video.cuevana3.cz/?token=1UUMMFFlaCBBMUQdT&apl=0\"},{\"t\":\"Episodio 4\",\"url\":\"https://video.cuevana3.cz/?token=1AlMFD1RCBVYYBApD&apl=0\"},{\"t\":\"Episodio 5\",\"url\":\"https://video.cuevana3.cz/?token=1D0EBFQRYEAtEBwEA&apl=0\"},{\"t\":\"Episodio 6\",\"url\":\"https://video.cuevana3.cz/?token=1CVoHClZBBFRdRFJX&apl=0\"},{\"t\":\"Episodio 7\",\"url\":\"https://video.cuevana3.cz/?token=1GARSFUVbBVMcQkRX&apl=0\"},{\"t\":\"Episodio 8\",\"url\":\"https://video.cuevana3.cz/?token=1E1EADEkCWgodUV9U&apl=0\"},{\"t\":\"Episodio 9\",\"url\":\"https://video.cuevana3.cz/?token=1CV1fH1VBCwpOBV5R&apl=0\"},{\"t\":\"Episodio 10\",\"url\":\"https://video.cuevana3.cz/?token=1FQNdBElAEwIaC1hR&apl=0\"}]}]",
+      "genre": "Crimen, Drama",
       "source": "chocopop"
     },
     {

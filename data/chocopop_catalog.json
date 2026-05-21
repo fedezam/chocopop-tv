@@ -1,7 +1,16 @@
 {
-  "updated": "2026-05-21T12:39:27.730451",
+  "updated": "2026-05-21T23:05:17.291293",
   "total": 149,
   "items": [
+    {
+      "title": "Accidente (2024)",
+      "type": "serie",
+      "year": "2024",
+      "stream": "https://video.cuevana3.cz/?token=1V1oBCUpZGxBYQFxK&apl=0",
+      "seasons": "[{\"n\":1,\"eps\":[{\"t\":\"Habitaciones vacías\",\"url\":\"https://video.cuevana3.cz/?token=1V1oBCUpZGxBYQFxK&apl=0\"},{\"t\":\"¿Qué puede salir mal?\",\"url\":\"https://video.cuevana3.cz/?token=1EVFGD1dbARFZXVdR&apl=0\"},{\"t\":\"Rueda de sospechosos\",\"url\":\"https://video.cuevana3.cz/?token=1WQdaVlVDEQddAQEJ&apl=0\"},{\"t\":\"La tormenta después de la tormenta\",\"url\":\"https://video.cuevana3.cz/?token=1AwVAUARHURQbAENa&apl=0\"},{\"t\":\"Confrontación\",\"url\":\"https://video.cuevana3.cz/?token=1VQYHDkNAAAwYXlxQ&apl=0\"},{\"t\":\"Mea Culpa\",\"url\":\"https://video.cuevana3.cz/?token=1UEwAUEJHEQsaUFYB&apl=0\"},{\"t\":\"Daños colaterales\",\"url\":\"https://video.cuevana3.cz/?token=1AERSVQZNVQAeSkZS&apl=0\"},{\"t\":\"Búsqueda\",\"url\":\"https://video.cuevana3.cz/?token=1CVxcXl4EFRxAQgBU&apl=0\"},{\"t\":\"Penitencia\",\"url\":\"https://video.cuevana3.cz/?token=1C1JbU0hQDFMYBkoO&apl=0\"},{\"t\":\"La sentencia\",\"url\":\"https://video.cuevana3.cz/?token=1V1NAH0oEEgZERgQB&apl=0\"}]},{\"n\":2,\"eps\":[{\"t\":\"Un año después\",\"url\":\"https://video.cuevana3.cz/?token=1DkZXDFNcCRJbQldO&apl=0\"},{\"t\":\"El atentado\",\"url\":\"https://video.cuevana3.cz/?token=1UE1HVAZfFQlZXUQN&apl=0\"},{\"t\":\"Verdades irreparables\",\"url\":\"https://video.cuevana3.cz/?token=1F1JNAldMBQpDAUtA&apl=0\"},{\"t\":\"Dardos cruzados\",\"url\":\"https://video.cuevana3.cz/?token=1Ek5SHkANAQdGUVcB&apl=0\"},{\"t\":\"Las máscaras caen\",\"url\":\"https://video.cuevana3.cz/?token=1VF9MCAhGUlBVSl9X&apl=0\"},{\"t\":\"Las ruinas del odio\",\"url\":\"https://video.cuevana3.cz/?token=1FUANAQVWCgJMVAUN&apl=0\"}]}]",
+      "genre": "Drama",
+      "source": "chocopop"
+    },
     {
       "title": "Aldosivi vs Independiente (M) | Apertura 2026 LPF",
       "type": "evento",
@@ -27,20 +36,20 @@
       "source": "chocopop"
     },
     {
+      "title": "Amityville: El Despertar (2017)",
+      "type": "pelicula",
+      "year": "2017",
+      "stream": "https://vimeos.net/embed-8rt16dxihog6.html",
+      "genre": "Terror",
+      "source": "chocopop"
+    },
+    {
       "title": "Animal (2025)",
       "type": "serie",
       "year": "2025",
       "stream": "https://video.cuevana.st/?token=1B1BeVVlCVxUUQApf&apl=0",
       "seasons": "[{\"n\":1,\"eps\":[{\"t\":\"Familia Kawanda\",\"url\":\"https://video.cuevana.st/?token=1B1BeVVlCVxUUQApf&apl=0\"},{\"t\":\"Sonrisa llama a sonrisa\",\"url\":\"https://video.cuevana.st/?token=1U0AFHlRTF1JMSgUM&apl=0\"},{\"t\":\"Frases de taza\",\"url\":\"https://video.cuevana.st/?token=1WAwMA0EHCQhFC1RW&apl=0\"},{\"t\":\"Una ansiedad de cobaya\",\"url\":\"https://video.cuevana.st/?token=1BUEAXkFdU1BJCwFW&apl=0\"},{\"t\":\"Fundación Kawanda\",\"url\":\"https://video.cuevana.st/?token=1CkJAUAdaEB1LQF5W&apl=0\"},{\"t\":\"El último paseo\",\"url\":\"https://video.cuevana.st/?token=1V1pBFQVGAlBASlJK&apl=0\"},{\"t\":\"La visita\",\"url\":\"https://video.cuevana.st/?token=1ElUHUl9MAAtaQlBA&apl=0\"},{\"t\":\"Las cataratas del Niágara\",\"url\":\"https://video.cuevana.st/?token=1DwxGH1hHUQ9DRAtI&apl=0\"},{\"t\":\"Un día de perros\",\"url\":\"https://video.cuevana.st/?token=1EUxEVFUGUwZfCgQB&apl=0\"}]}]",
       "genre": "Comedia",
-      "source": "chocopop"
-    },
-    {
-      "title": "Animales Fantásticos: Y Dónde Encontrarlos (2016)",
-      "type": "pelicula",
-      "year": "2016",
-      "stream": "https://vimeos.net/embed-gva8zufrm3n1.html",
-      "genre": "Fantasía, Aventura",
       "source": "chocopop"
     },
     {
@@ -165,6 +174,14 @@
       "source": "chocopop"
     },
     {
+      "title": "Brujas De Amityville (2020)",
+      "type": "pelicula",
+      "year": "2020",
+      "stream": "https://vimeos.net/embed-0gsmcqaobl5r.html",
+      "genre": "Terror",
+      "source": "chocopop"
+    },
+    {
       "title": "Buenos Muchachos (1990)",
       "type": "pelicula",
       "year": "1990",
@@ -195,14 +212,6 @@
       "stream": "https://vidsrc.mov/embed/tv/227042/1/1",
       "seasons": "[{\"n\":1,\"eps\":[{\"t\":\"Episodio 1\",\"url\":\"https://vidsrc.mov/embed/tv/227042/1/1\"},{\"t\":\"Episodio 2\",\"url\":\"https://vidsrc.mov/embed/tv/227042/1/2\"},{\"t\":\"Episodio 3\",\"url\":\"https://vidsrc.mov/embed/tv/227042/1/3\"},{\"t\":\"Episodio 4\",\"url\":\"https://vidsrc.mov/embed/tv/227042/1/4\"},{\"t\":\"Episodio 5\",\"url\":\"https://vidsrc.mov/embed/tv/227042/1/5\"},{\"t\":\"Episodio 6\",\"url\":\"https://vidsrc.mov/embed/tv/227042/1/6\"},{\"t\":\"Episodio 7\",\"url\":\"https://vidsrc.mov/embed/tv/227042/1/7\"}]},{\"n\":2,\"eps\":[{\"t\":\"Episodio 1\",\"url\":\"https://vidsrc.mov/embed/tv/227042/2/1\"},{\"t\":\"Episodio 2\",\"url\":\"https://vidsrc.mov/embed/tv/227042/2/2\"},{\"t\":\"Episodio 3\",\"url\":\"https://vidsrc.mov/embed/tv/227042/2/3\"},{\"t\":\"Episodio 4\",\"url\":\"https://vidsrc.mov/embed/tv/227042/2/4\"},{\"t\":\"Episodio 5\",\"url\":\"https://vidsrc.mov/embed/tv/227042/2/5\"},{\"t\":\"Episodio 6\",\"url\":\"https://vidsrc.mov/embed/tv/227042/2/6\"}]}]",
       "genre": "Drama, Crimen",
-      "source": "chocopop"
-    },
-    {
-      "title": "Condena de amor (2022)",
-      "type": "pelicula",
-      "year": "2022",
-      "stream": "https://vimeos.net/embed-c8ix8017hum0.html",
-      "genre": "Romance, Drama",
       "source": "chocopop"
     },
     {
@@ -274,6 +283,14 @@
       "type": "evento",
       "year": "2026",
       "stream": "https://jjfutbol2.lat/evento.php?proxy=https%3A%2F%2Faw1wcm92zq.fubohd.com%3A443%2Fespn%2Fmono.m3u8%3Ftoken%3D03ef25c27802762d4fb731dda97906f900b0f2d5-2f-1778048649-1778030649",
+      "genre": "Evento",
+      "source": "chocopop"
+    },
+    {
+      "title": "Deportivo La Guaira vs Independiente (M) | Libertadores 2026",
+      "type": "evento",
+      "year": "2026",
+      "stream": "https://todossembbbbdeeelosscanaquii.blogspot.com/p/caneembeepucheedepoflop1.html?get=Rm94U3BvcnRz",
       "genre": "Evento",
       "source": "chocopop"
     },
@@ -384,14 +401,6 @@
       "source": "chocopop"
     },
     {
-      "title": "El Libro del Amor (Book of Love) (2022)",
-      "type": "pelicula",
-      "year": "2022",
-      "stream": "https://vimeos.net/embed-sxo4vy0gna99.html",
-      "genre": "Comedia, Romance, Drama",
-      "source": "chocopop"
-    },
-    {
       "title": "El cuento de la Princesa Kaguya (2013)",
       "type": "pelicula",
       "year": "2013",
@@ -430,6 +439,15 @@
       "stream": "https://vimeos.net/embed-1j2s5lwl45z9.html",
       "seasons": "[{\"n\":1,\"eps\":[{\"t\":\"Un proyecto peligroso\",\"url\":\"https://vimeos.net/embed-1j2s5lwl45z9.html\"},{\"t\":\"Una acción solidaria\",\"url\":\"https://vimeos.net/embed-4mu8qnrjq8z5.html\"},{\"t\":\"Una turista en Buenos Aires\",\"url\":\"https://vimeos.net/embed-wyh4vw87vccd.html\"},{\"t\":\"Una amante para Zambrano\",\"url\":\"https://vimeos.net/embed-aaoft95rkwwc.html\"},{\"t\":\"Visita sorpresa\",\"url\":\"https://vimeos.net/embed-oo6fv0xd6fy8.html\"},{\"t\":\"Chofer nocturno\",\"url\":\"https://vimeos.net/embed-xgoe8e4cnfj5.html\"},{\"t\":\"Acompañante terapéutico\",\"url\":\"https://vimeos.net/embed-567r0v30xkll.html\"},{\"t\":\"Sabotaje en la sala de máquinas\",\"url\":\"https://vimeos.net/embed-us3vn09rfzbz.html\"},{\"t\":\"El okupa del 5B\",\"url\":\"https://vimeos.net/embed-nszwzox3gmm7.html\"},{\"t\":\"La hora de la verdad\",\"url\":\"https://vimeos.net/embed-h7zlfq8xae1i.html\"},{\"t\":\"El ave fénix\",\"url\":\"https://vimeos.net/embed-w0gqhnc6o672.html\"}]},{\"n\":2,\"eps\":[{\"t\":\"Una mujer solidaria\",\"url\":\"https://vimeos.net/embed-uffx06biekdm.html\"},{\"t\":\"Una alianza inesperada\",\"url\":\"https://vimeos.net/embed-4dh1dkytup47.html\"},{\"t\":\"Un pequeño susto\",\"url\":\"https://vimeos.net/embed-b0vvq2tj0vh3.html\"},{\"t\":\"El último adiós\",\"url\":\"https://vimeos.net/embed-q3a1d8sjwjsl.html\"},{\"t\":\"Allanamiento sorpresa\",\"url\":\"https://vimeos.net/embed-5m46od0tw16z.html\"},{\"t\":\"Junta médica\",\"url\":\"https://vimeos.net/embed-8rrequ6og5hu.html\"},{\"t\":\"Aceitunas para todos\",\"url\":\"https://vimeos.net/embed-jxfl024w2xsy.html\"}]},{\"n\":3,\"eps\":[{\"t\":\"La Convención\",\"url\":\"https://vimeos.net/embed-rt5sfcicfp1j.html\"},{\"t\":\"Soluciones integrales Basurto\",\"url\":\"https://vimeos.net/embed-jh7txhq582wb.html\"},{\"t\":\"Y bueh...\",\"url\":\"https://vimeos.net/embed-v34uf8poh60p.html\"},{\"t\":\"Otra oportunidad\",\"url\":\"https://vimeos.net/embed-cu5n9n0um78e.html\"},{\"t\":\"Piquito\",\"url\":\"https://vimeos.net/embed-6j1td2zflt45.html\"},{\"t\":\"Portericidio\",\"url\":\"https://vimeos.net/embed-qkqacjkrcxy7.html\"},{\"t\":\"Eliseo versus el Estado Nacional argentino\",\"url\":\"https://vimeos.net/embed-m12hi0y55h91.html\"}]},{\"n\":4,\"eps\":[{\"t\":\"Un palo verde\",\"url\":\"https://vimeos.net/embed-l00n2s9l2ts5.html\"},{\"t\":\"Operación Basurto\",\"url\":\"https://vimeos.net/embed-sew5id2zhd7n.html\"},{\"t\":\"La perimetral\",\"url\":\"https://vimeos.net/embed-bxeb4nybt1yo.html\"},{\"t\":\"Episodio 4\",\"url\":\"https://vimeos.net/embed-lf1rrcgwpxma.html\"},{\"t\":\"Episodio 5\",\"url\":\"https://vimeos.net/embed-ywbuyo8xcftl.html\"},{\"t\":\"Episodio 6\",\"url\":\"https://vimeos.net/embed-d38016o9ep2y.html\"},{\"t\":\"Episodio 7\",\"url\":\"https://vimeos.net/embed-ywauxap8r1ho.html\"}]}]",
       "genre": "Comedia, Drama",
+      "source": "chocopop"
+    },
+    {
+      "title": "El gatopardo (2025)",
+      "type": "serie",
+      "year": "2025",
+      "stream": "https://video.cuevana3.cz/?token=1D1xCH19DGwxDBUYK&apl=0",
+      "seasons": "[{\"n\":1,\"eps\":[{\"t\":\"Episodio 1\",\"url\":\"https://video.cuevana3.cz/?token=1D1xCH19DGwxDBUYK&apl=0\"},{\"t\":\"Episodio 2\",\"url\":\"https://video.cuevana3.cz/?token=1CQZeVVNQDhBFX1JJ&apl=0\"},{\"t\":\"Episodio 3\",\"url\":\"https://video.cuevana3.cz/?token=1DVtcDkRZVRRYBEBB&apl=0\"},{\"t\":\"Episodio 4\",\"url\":\"https://video.cuevana3.cz/?token=1G1sGUldSGw4cUVlP&apl=0\"},{\"t\":\"Episodio 5\",\"url\":\"https://video.cuevana3.cz/?token=1UkwHEkQFAB1cXUAP&apl=0\"},{\"t\":\"Episodio 6\",\"url\":\"https://video.cuevana3.cz/?token=1VkINX15bVgFCVgBP&apl=0\"}]}]",
+      "genre": "Drama",
       "source": "chocopop"
     },
     {
@@ -511,7 +529,7 @@
       "type": "serie",
       "year": "2022",
       "stream": "https://vimeos.net/embed-u36ubokvgjri.html",
-      "seasons": "[{\"n\":1,\"eps\":[{\"t\":\"Episodio 1\",\"url\":\"https://vimeos.net/embed-u36ubokvgjri.html\"},{\"t\":\"Episodio 2\",\"url\":\"https://vimeos.net/embed-9myc82m0rk5d.html\"},{\"t\":\"Episodio 3\",\"url\":\"https://vimeos.net/embed-wg7ny092vfeh.html\"},{\"t\":\"Episodio 4\",\"url\":\"https://vimeos.net/embed-7k9avgfuyljv.html\"},{\"t\":\"Episodio 5\",\"url\":\"https://vimeos.net/embed-5k11bpdfu1vn.html\"},{\"t\":\"Episodio 6\",\"url\":\"https://vimeos.net/embed-smh7pyhuxe0f.html\"},{\"t\":\"Episodio 7\",\"url\":\"https://vimeos.net/embed-5ipk7bz0t91u.html\"},{\"t\":\"Episodio 8\",\"url\":\"https://vimeos.net/embed-lfoaggvz5htp.html\"},{\"t\":\"Episodio 9\",\"url\":\"https://vimeos.net/embed-0d93syy2odis.html\"},{\"t\":\"Episodio 10\",\"url\":\"https://vimeos.net/embed-atwqpohpwgfo.html\"}]},{\"n\":2,\"eps\":[{\"t\":\"Episodio 1\",\"url\":\"https://vimeos.net/embed-vikui78d5xda.html\"},{\"t\":\"Episodio 2\",\"url\":\"https://vimeos.net/embed-fs09y2ie84fo.html\"},{\"t\":\"Episodio 3\",\"url\":\"https://vimeos.net/embed-22icom6yn537.html\"},{\"t\":\"Episodio 4\",\"url\":\"https://vimeos.net/embed-16ub7vxq5g6t.html\"},{\"t\":\"Episodio 5\",\"url\":\"https://vimeos.net/embed-nlb0s19g589h.html\"},{\"t\":\"Episodio 6\",\"url\":\"https://vimeos.net/embed-zp4m4an6k996.html\"},{\"t\":\"Episodio 7\",\"url\":\"https://vimeos.net/embed-ook36a6e87dj.html\"},{\"t\":\"Episodio 8\",\"url\":\"https://vimeos.net/embed-aerxehaibn6u.html\"},{\"t\":\"Episodio 9\",\"url\":\"https://vimeos.net/embed-il8mpf6y1avg.html\"},{\"t\":\"Episodio 10\",\"url\":\"https://vimeos.net/embed-bu4kty84y254.html\"}]},{\"n\":3,\"eps\":[{\"t\":\"Romper\",\"url\":\"https://vimeos.net/embed-vzc4mxbnu9kq.html\"},{\"t\":\"Cuando vamos\",\"url\":\"https://vimeos.net/embed-gb58i89au8zr.html\"},{\"t\":\"Ratonera\",\"url\":\"https://vimeos.net/embed-scj1s8o66rxn.html\"},{\"t\":\"De ida y vuelta\",\"url\":\"https://vimeos.net/embed-rckyra7j0cy3.html\"},{\"t\":\"La luz del día\",\"url\":\"https://vimeos.net/embed-ru0dg4y7r2mi.html\"},{\"t\":\"Tejido cicatricial\",\"url\":\"https://vimeos.net/embed-ltmcmumy9jn2.html\"},{\"t\":\"Estas vidas frágiles\",\"url\":\"https://vimeos.net/embed-bwilmp2stklv.html\"},{\"t\":\"Umbrales\",\"url\":\"https://vimeos.net/embed-9wkuxuc1bb2j.html\"},{\"t\":\"Revelaciones: Capítulo Uno\",\"url\":\"https://vimeos.net/embed-88qqrwjf70x1.html\"},{\"t\":\"Revelaciones: Capítulo Dos\",\"url\":\"https://vimeos.net/embed-d23ojpqmyng6.html\"}]},{\"n\":4,\"eps\":[{\"t\":\"La Llegada\",\"url\":\"https://vimeos.net/embed-d23ojpqmyng6.html\"},{\"t\":\"Desgaste\",\"url\":\"https://vimeos.net/embed-1pzmgvxfcedh.html\"},{\"t\":\"Vamos con alegría\",\"url\":\"https://vimeos.net/embed-rvnl3669gv1s.html\"},{\"t\":\"De Mitos y Monstruos\",\"url\":\"https://vimeos.net/embed-gfs2xq2pb20e.html\"}]}]",
+      "seasons": "[{\"n\":1,\"eps\":[{\"t\":\"Episodio 1\",\"url\":\"https://vimeos.net/embed-u36ubokvgjri.html\"},{\"t\":\"Episodio 2\",\"url\":\"https://vimeos.net/embed-9myc82m0rk5d.html\"},{\"t\":\"Episodio 3\",\"url\":\"https://vimeos.net/embed-wg7ny092vfeh.html\"},{\"t\":\"Episodio 4\",\"url\":\"https://vimeos.net/embed-7k9avgfuyljv.html\"},{\"t\":\"Episodio 5\",\"url\":\"https://vimeos.net/embed-5k11bpdfu1vn.html\"},{\"t\":\"Episodio 6\",\"url\":\"https://vimeos.net/embed-smh7pyhuxe0f.html\"},{\"t\":\"Episodio 7\",\"url\":\"https://vimeos.net/embed-5ipk7bz0t91u.html\"},{\"t\":\"Episodio 8\",\"url\":\"https://vimeos.net/embed-lfoaggvz5htp.html\"},{\"t\":\"Episodio 9\",\"url\":\"https://vimeos.net/embed-0d93syy2odis.html\"},{\"t\":\"Episodio 10\",\"url\":\"https://vimeos.net/embed-atwqpohpwgfo.html\"}]},{\"n\":2,\"eps\":[{\"t\":\"Episodio 1\",\"url\":\"https://vimeos.net/embed-vikui78d5xda.html\"},{\"t\":\"Episodio 2\",\"url\":\"https://vimeos.net/embed-fs09y2ie84fo.html\"},{\"t\":\"Episodio 3\",\"url\":\"https://vimeos.net/embed-22icom6yn537.html\"},{\"t\":\"Episodio 4\",\"url\":\"https://vimeos.net/embed-16ub7vxq5g6t.html\"},{\"t\":\"Episodio 5\",\"url\":\"https://vimeos.net/embed-nlb0s19g589h.html\"},{\"t\":\"Episodio 6\",\"url\":\"https://vimeos.net/embed-zp4m4an6k996.html\"},{\"t\":\"Episodio 7\",\"url\":\"https://vimeos.net/embed-ook36a6e87dj.html\"},{\"t\":\"Episodio 8\",\"url\":\"https://vimeos.net/embed-aerxehaibn6u.html\"},{\"t\":\"Episodio 9\",\"url\":\"https://vimeos.net/embed-il8mpf6y1avg.html\"},{\"t\":\"Episodio 10\",\"url\":\"https://vimeos.net/embed-bu4kty84y254.html\"}]},{\"n\":3,\"eps\":[{\"t\":\"Romper\",\"url\":\"https://vimeos.net/embed-vzc4mxbnu9kq.html\"},{\"t\":\"Cuando vamos\",\"url\":\"https://vimeos.net/embed-gb58i89au8zr.html\"},{\"t\":\"Ratonera\",\"url\":\"https://vimeos.net/embed-scj1s8o66rxn.html\"},{\"t\":\"De ida y vuelta\",\"url\":\"https://vimeos.net/embed-rckyra7j0cy3.html\"},{\"t\":\"La luz del día\",\"url\":\"https://vimeos.net/embed-ru0dg4y7r2mi.html\"},{\"t\":\"Tejido cicatricial\",\"url\":\"https://vimeos.net/embed-ltmcmumy9jn2.html\"},{\"t\":\"Estas vidas frágiles\",\"url\":\"https://vimeos.net/embed-bwilmp2stklv.html\"},{\"t\":\"Umbrales\",\"url\":\"https://vimeos.net/embed-9wkuxuc1bb2j.html\"},{\"t\":\"Revelaciones: Capítulo Uno\",\"url\":\"https://vimeos.net/embed-88qqrwjf70x1.html\"},{\"t\":\"Revelaciones: Capítulo Dos\",\"url\":\"https://vimeos.net/embed-d23ojpqmyng6.html\"}]},{\"n\":4,\"eps\":[{\"t\":\"La Llegada\",\"url\":\"https://vimeos.net/embed-d23ojpqmyng6.html\"},{\"t\":\"Desgaste\",\"url\":\"https://vimeos.net/embed-1pzmgvxfcedh.html\"},{\"t\":\"Vamos con alegría\",\"url\":\"https://vimeos.net/embed-rvnl3669gv1s.html\"},{\"t\":\"De Mitos y Monstruos\",\"url\":\"https://vimeos.net/embed-gfs2xq2pb20e.html\"},{\"t\":\"Que Viaje Tan Largo y Extraño Ha Sido\",\"url\":\"https://vimeos.net/embed-6xo9okn7b87z.html\"}]}]",
       "genre": "Misterio, Drama, Sci-Fi & Fantasy",
       "source": "chocopop"
     },
@@ -540,14 +558,6 @@
       "source": "chocopop"
     },
     {
-      "title": "Halloween: La noche del espantapajaros (2025)",
-      "type": "pelicula",
-      "year": "2025",
-      "stream": "https://vimeos.net/embed-4x32myduv89g.html",
-      "genre": "Terror, Suspense",
-      "source": "chocopop"
-    },
-    {
       "title": "Hokum: La maldición de la bruja (2026)",
       "type": "pelicula",
       "year": "2026",
@@ -569,14 +579,6 @@
       "type": "evento",
       "year": "2026",
       "stream": "https://todossembbbbdeeelosscanaquii.blogspot.com/p/cantodosflooonueeepuchee-essmmmbee-op1.html?get=Rm94U3BvcnRz",
-      "genre": "Evento",
-      "source": "chocopop"
-    },
-    {
-      "title": "Independiente (M) vs La Guaira | Libertadores 2026",
-      "type": "evento",
-      "year": "2026",
-      "stream": "https://todossembbbbdeeelosscanaquii.blogspot.com/p/caneembeepucheedepoflop1.html?get=Rm94U3BvcnRz",
       "genre": "Evento",
       "source": "chocopop"
     },
@@ -703,22 +705,6 @@
       "stream": "https://vimeos.net/embed-7ny4vvdwblcm.html",
       "seasons": "[{\"n\":1,\"eps\":[{\"t\":\"Episodio 1\",\"url\":\"https://vimeos.net/embed-7ny4vvdwblcm.html\"},{\"t\":\"Episodio 2\",\"url\":\"https://vimeos.net/embed-pygtc8rwwmhu.html\"},{\"t\":\"Episodio 3\",\"url\":\"https://vimeos.net/embed-rslylbr3nv9l.html\"},{\"t\":\"Episodio 4\",\"url\":\"https://vimeos.net/embed-uiw0o5mzxv7b.html\"},{\"t\":\"Episodio 5\",\"url\":\"https://vimeos.net/embed-xtqbgs2qa73x.html\"},{\"t\":\"Episodio 6\",\"url\":\"https://vimeos.net/embed-y3432llylgdl.html\"},{\"t\": \"Episodio 7\",\"url\":\"https://vimeos.net/embed-usi6vjeyw31p.html\"},{\"t\":\"Episodio 8\",\"url\":\"https://vimeos.net/embed-5rh0z1vh2tiy.html\"},{\"t\":\"Episodio 9\",\"url\":\"https://vimeos.net/embed-wy3wfrb1349x.html\"},{\"t\":\"Episodio 10\",\"url\":\"https://vimeos.net/embed-iybnkjr1atmk.html\"}]},{\"n\":2,\"eps\":[{\"t\":\"Episodio 1\",\"url\":\"https://vimeos.net/embed-qsot3e9qy5l9.html\"},{\"t\":\"Episodio 2\",\"url\":\"https://vimeos.net/embed-aloij9qh7k4r.html\"},{\"t\":\"Episodio 3\",\"url\":\"https://vimeos.net/embed-ccm1l6ssjjq2.html\"},{\"t\":\"Episodio 4\",\"url\":\"https://vimeos.net/embed-wyyelkhd1wbg.html\"},{\"t\":\"Episodio 5\",\"url\":\"https://vimeos.net/embed-e6wda4cb88rm.html\"},{\"t\":\"Episodio 6\",\"url\":\"https://vimeos.net/embed-vemhs2cjca7d.html\"},{\"t\":\"Episodio 7\",\"url\":\"https://vimeos.net/embed-ejkw3mq5n8da.html\"},{\"t\":\"Episodio 8\",\"url\":\"https://vimeos.net/embed-77di1vud68rp.html\"}]}]",
       "genre": "Sci-Fi & Fantasy, Drama, Action & Adventure",
-      "source": "chocopop"
-    },
-    {
-      "title": "La esposa que sabía demasiado (2025)",
-      "type": "pelicula",
-      "year": "2025",
-      "stream": "https://vimeos.net/embed-0yoqrkccbju9.html",
-      "genre": "Suspense, Película de TV",
-      "source": "chocopop"
-    },
-    {
-      "title": "La llegada del hijo (2025)",
-      "type": "pelicula",
-      "year": "2025",
-      "stream": "https://vimeos.net/embed-kk4hft7libsl.html",
-      "genre": "Drama",
       "source": "chocopop"
     },
     {
@@ -899,6 +885,14 @@
       "stream": "https://video.cuevana.st/?token=1GVVRHFhEEBccUQMN&apl=0",
       "seasons": "[{\"n\":1,\"eps\":[{\"t\":\"Episodio 1\",\"url\":\"https://video.cuevana.st/?token=1GVVRHFhEEBccUQMN&apl=0\"},{\"t\":\"Episodio 2\",\"url\":\"https://video.cuevana.st/?token=1DUVFCkoDCQFYQUBU&apl=0\"},{\"t\":\"Episodio 3\",\"url\":\"https://video.cuevana.st/?token=1CVZeE1RSAhNeBVRJ&apl=0\"},{\"t\":\"Episodio 4\",\"url\":\"https://video.cuevana.st/?token=1EAFRC1JEAQdYC1FT&apl=0\"},{\"t\":\"Episodio 5\",\"url\":\"https://video.cuevana.st/?token=1EwNcCQdTEVIcUQJO&apl=0\"},{\"t\":\"Episodio 6\",\"url\":\"https://video.cuevana.st/?token=1BQRYHFRDEgJCQgsI&apl=0\"}]},{\"n\":2,\"eps\":[{\"t\":\"Episodio 1\",\"url\":\"https://video.cuevana.st/?token=1FlVUVQZeWwEcBlpS&apl=0\"},{\"t\":\"Episodio 2\",\"url\":\"https://video.cuevana.st/?token=1G1EDEwlMGhZeXgZd&apl=0\"},{\"t\":\"Episodio 3\",\"url\":\"https://video.cuevana.st/?token=1EEZWXgJXGQweAQRM&apl=0\"},{\"t\":\"Episodio 4\",\"url\":\"https://video.cuevana.st/?token=1ElxMDAVGBQJGBVRO&apl=0\"}]}]",
       "genre": "Sci-Fi & Fantasy, Action & Adventure, Drama",
+      "source": "chocopop"
+    },
+    {
+      "title": "Racing vs Caracas FC | Sudamericana 2026",
+      "type": "evento",
+      "year": "2026",
+      "stream": "https://todossembbbbdeeelosscanaquii.blogspot.com/p/cantodosflooonueeepuchee-essmmmbee-op1.html?get=RVNQTjJIRA",
+      "genre": "Evento",
       "source": "chocopop"
     },
     {
@@ -1103,6 +1097,14 @@
       "year": "2026",
       "stream": "https://todossembbbbdeeelosscanaquii.blogspot.com/p/cantodosflooonueeepuchee-essmmmbee-op1.html?get=Rm94X1Nwb3J0c19QcmVtaXVuX0hE",
       "genre": "Evento",
+      "source": "chocopop"
+    },
+    {
+      "title": "Terror en Amityville (2005)",
+      "type": "pelicula",
+      "year": "2005",
+      "stream": "https://vimeos.net/embed-ky87qj1x22gr.html",
+      "genre": "Terror",
       "source": "chocopop"
     },
     {

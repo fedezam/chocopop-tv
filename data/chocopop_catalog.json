@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-22T23:04:19.397605",
+  "updated": "2026-05-23T11:04:30.861123",
   "total": 149,
   "items": [
     {
@@ -847,6 +847,15 @@
       "source": "chocopop"
     },
     {
+      "title": "Némesis (2026)",
+      "type": "serie",
+      "year": "2026",
+      "stream": "https://video.cuevana.cz/?token=1El8CFV5aVFYVS1QP&apl=0",
+      "seasons": "[{\"n\":1,\"eps\":[{\"t\":\"Ya era hora\",\"url\":\"https://video.cuevana.cz/?token=1El8CFV5aVFYVS1QP&apl=0\"},{\"t\":\"Rompiendo el protocolo\",\"url\":\"https://video.cuevana.cz/?token=1F0FfD1pQCxMdREVS&apl=0\"},{\"t\":\"Cara a cara\",\"url\":\"https://video.cuevana.cz/?token=1V1xAEERZDFNXQ0FR&apl=0\"},{\"t\":\"Fue un buen día\",\"url\":\"https://video.cuevana.cz/?token=1ClxcF1dWUR0YAlpV&apl=0\"},{\"t\":\"Solo negocios. Nada personal\",\"url\":\"https://video.cuevana.cz/?token=1BkJQBwhXDA4bRwoK&apl=0\"},{\"t\":\"La suerte está echada\",\"url\":\"https://video.cuevana.cz/?token=1UQZfCloMAR9IWlZP&apl=0\"},{\"t\":\"Repercusiones\",\"url\":\"https://video.cuevana.cz/?token=1AEZfU1dZEgcYUAYL&apl=0\"},{\"t\":\"Zugzwang\",\"url\":\"https://video.cuevana.cz/?token=1EgYDHFpNDgRCS1FW&apl=0\"}]}]",
+      "genre": "Action & Adventure, Drama, Crimen",
+      "source": "chocopop"
+    },
+    {
       "title": "Perfect Blue (1998)",
       "type": "pelicula",
       "year": "1998",
@@ -1169,14 +1178,6 @@
       "type": "evento",
       "year": "2026",
       "stream": "https://todossembbbbdeeelosscanaquii.blogspot.com/p/cantodosflooonueeepuchee-essmmmbee-op1.html?get=VE5UX1Nwb3J0c19IRA",
-      "genre": "Evento",
-      "source": "chocopop"
-    },
-    {
-      "title": "Vélez vs Gimnasia y Tiro (S) | Copa Argentina 2026",
-      "type": "evento",
-      "year": "2026",
-      "stream": "https://todossembbbbdeeelosscanaquii.blogspot.com/p/caneembeepucheedepoflop1.html?get=VHlDU3BvcnQ",
       "genre": "Evento",
       "source": "chocopop"
     },

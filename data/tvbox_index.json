@@ -1,6 +1,12 @@
 {
-  "updated": "2026-05-25T12:56:19.091628",
+  "updated": "2026-05-25T23:08:07.200112",
   "items": [
+    {
+      "title": "(SAP) River vs Belgrano | Apertura 2026 LPF",
+      "type": "evento",
+      "year": "2026",
+      "stream": "https://ok.ru/video/14283957799601"
+    },
     {
       "title": "Accidente (2024)",
       "type": "serie",
@@ -26,6 +32,24 @@
       "type": "pelicula",
       "year": "2016",
       "stream": "https://vimeos.net/embed-gva8zufrm3n1.html"
+    },
+    {
+      "title": "Annabelle (2014)",
+      "type": "pelicula",
+      "year": "2014",
+      "stream": "https://vimeos.net/embed-bxfgcryba9hk.html"
+    },
+    {
+      "title": "Annabelle 2: La Creación (2017)",
+      "type": "pelicula",
+      "year": "2017",
+      "stream": "https://vimeos.net/embed-jy3ncwhie4eg.html"
+    },
+    {
+      "title": "Annabelle 3: Viene a casa (2019)",
+      "type": "pelicula",
+      "year": "2019",
+      "stream": "https://vimeos.net/embed-68qeh3r8p3ow.html"
     },
     {
       "title": "Bronca (2023)",
@@ -57,19 +81,6 @@
       "type": "pelicula",
       "year": "2023",
       "stream": "https://vimeos.net/embed-sel75o9wi6q6.html"
-    },
-    {
-      "title": "Chucky (2021)",
-      "type": "serie",
-      "year": "2021",
-      "stream": "https://vimeos.net/embed-ch2up6q6ofqu.html",
-      "seasons": "[{\"n\":1,\"eps\":[{\"t\":\"Muerte por desventura\",\"url\":\"https://vimeos.net/embed-ch2up6q6ofqu.html\"},{\"t\":\"Dame algo bueno para comer\",\"url\":\"https://vimeos.net/embed-94gljawag27n.html\"},{\"t\":\"Me gusta que me abracen\",\"url\":\"https://vimeos.net/embed-3xjdl9nwmb95.html\"},{\"t\":\"Dejar ir\",\"url\":\"https://vimeos.net/embed-oy4ek58p3v47.html\"},{\"t\":\"Pequeñas mentiras\",\"url\":\"https://vimeos.net/embed-amysvrg16ipu.html\"},{\"t\":\"Cabo Queer\",\"url\":\"https://vimeos.net/embed-4a6neu8kntv4.html\"},{\"t\":\"El doble de dolor, el doble de pérdida\",\"url\":\"https://vimeos.net/embed-8c1tgz9l9iy2.html\"},{\"t\":\"Un asunto para desmembrar\",\"url\":\"https://vimeos.net/embed-z4sz2kfpsgyx.html\"}]},{\"n\":2,\"eps\":[{\"t\":\"Halloween II\",\"url\":\"https://vimeos.net/embed-d1lv74hta5lc.html\"},{\"t\":\"Los pecadores son mucho más divertidos\",\"url\":\"https://vimeos.net/embed-quc82283pko9.html\"},{\"t\":\"¡Ave María!\",\"url\":\"https://vimeos.net/embed-oqer0zx7vqn3.html\"},{\"t\":\"Muerte por negación\",\"url\":\"https://vimeos.net/embed-lipjxd3ig5ce.html\"},{\"t\":\"Muñeco con muñeco\",\"url\":\"https://vimeos.net/embed-pcxib1m094om.html\"},{\"t\":\"Él ha resucitado\",\"url\":\"https://vimeos.net/embed-84s8w4ifagks.html\"},{\"t\":\"Ir a la capilla\",\"url\":\"https://vimeos.net/embed-c2c1ewq5z6cc.html\"},{\"t\":\"Chucky en realidad\",\"url\":\"https://vimeos.net/embed-a4y2lz2w89gy.html\"}]},{\"n\":3,\"eps\":[{\"t\":\"Episodio 1\",\"url\":\"https://vimeos.net/embed-bcdppdofzhgs.html\"},{\"t\":\"Episodio 2\",\"url\":\"https://vimeos.net/embed-y4hdmbfls5mz.html\"},{\"t\":\"Episodio 3\",\"url\":\"https://vimeos.net/embed-lh1rmwtlccbi.html\"},{\"t\":\"Episodio 4\",\"url\":\"https://vimeos.net/embed-dvbkids6pirh.html\"},{\"t\":\"Negación, Ira, Negociación, Depresión, Asesinato\",\"url\":\"https://vimeos.net/embed-mgca96rnezul.html\"},{\"t\":\"Episodio 6\",\"url\":\"https://vimeos.net/embed-z3xz3wx892ts.html\"},{\"t\":\"Episodio 7\",\"url\":\"https://vimeos.net/embed-gb8ldrpgwar3.html\"},{\"t\":\"Episodio 8\",\"url\":\"https://vimeos.net/embed-72di41433y6p.html\"}]}]"
-    },
-    {
-      "title": "Chucky: el muñeco diabólico 3 (1991)",
-      "type": "pelicula",
-      "year": "1991",
-      "stream": "https://vimeos.net/embed-1fnborikos5e.html"
     },
     {
       "title": "Clanes (2024)",
@@ -125,12 +136,6 @@
       "type": "pelicula",
       "year": "2009",
       "stream": "https://vimeos.net/embed-8n28yt59texe.html"
-    },
-    {
-      "title": "Culto a Chucky (2017)",
-      "type": "pelicula",
-      "year": "2017",
-      "stream": "https://vimeos.net/embed-holxeg0xkdac.html"
     },
     {
       "title": "Damian: la profecía II (1978)",
@@ -200,6 +205,30 @@
       "year": "1991",
       "stream": "https://ok.ru/video/7870633413230",
       "seasons": "[{\"n\":1,\"eps\":[{\"t\":\"Episodio 1\",\"url\":\"https://ok.ru/video/7870633413230\"},{\"t\":\"Episodio 2\",\"url\":\"https://ok.ru/video/7870631119470\"},{\"t\":\"Episodio 3\",\"url\":\"https://ok.ru/video/7870629218926\"},{\"t\":\"Episodio 4\",\"url\":\"https://ok.ru/video/7870626990702\"},{\"t\":\"Episodio 5\",\"url\":\"https://ok.ru/video/7870625090158\"},{\"t\":\"Episodio 6\",\"url\":\"https://ok.ru/video/7870622206574\"},{\"t\":\"Episodio 7\",\"url\":\"https://ok.ru/video/7870620109422\"},{\"t\":\"Episodio 8\",\"url\":\"https://ok.ru/video/7870616898158\"},{\"t\":\"Episodio 9\",\"url\":\"https://ok.ru/video/7870615456366\"},{\"t\":\"Episodio 10\",\"url\":\"https://ok.ru/video/7870613555822\"},{\"t\":\"Episodio 11\",\"url\":\"https://ok.ru/video/7870610082414\"},{\"t\":\"Episodio 12\",\"url\":\"https://ok.ru/video/7870607919726\"},{\"t\":\"Episodio 13\",\"url\":\"https://ok.ru/video/7870606019182\"},{\"t\":\"Episodio 14\",\"url\":\"https://ok.ru/video/7870603856494\"},{\"t\":\"Episodio 15\",\"url\":\"https://ok.ru/video/7870602087022\"},{\"t\":\"Episodio 16\",\"url\":\"https://ok.ru/video/7870600317550\"},{\"t\":\"Episodio 17\",\"url\":\"https://ok.ru/video/7870597827182\"},{\"t\":\"Episodio 18\",\"url\":\"https://ok.ru/video/7870595664494\"},{\"t\":\"Episodio 19\",\"url\":\"https://ok.ru/video/7870593632878\"}]}]"
+    },
+    {
+      "title": "El Conjuro (2013)",
+      "type": "pelicula",
+      "year": "2013",
+      "stream": "https://vimeos.net/embed-w23gwhn4gpcg.html"
+    },
+    {
+      "title": "El Conjuro 2 (2016)",
+      "type": "pelicula",
+      "year": "2016",
+      "stream": "https://vimeos.net/embed-c7b5ase9682n.html"
+    },
+    {
+      "title": "El Conjuro 3: El diablo me obligó a hacerlo (2021)",
+      "type": "pelicula",
+      "year": "2021",
+      "stream": "https://vimeos.net/embed-c7d2oqp83sx9.html"
+    },
+    {
+      "title": "El Conjuro 4: Últimos ritos (2025)",
+      "type": "pelicula",
+      "year": "2025",
+      "stream": "https://vimeos.net/embed-pazypz5yf1vk.html"
     },
     {
       "title": "El Efecto Mariposa (2004)",
@@ -282,12 +311,6 @@
       "year": "2025",
       "stream": "https://video.cuevana3.cz/?token=1D1xCH19DGwxDBUYK&apl=0",
       "seasons": "[{\"n\":1,\"eps\":[{\"t\":\"Episodio 1\",\"url\":\"https://video.cuevana3.cz/?token=1D1xCH19DGwxDBUYK&apl=0\"},{\"t\":\"Episodio 2\",\"url\":\"https://video.cuevana3.cz/?token=1CQZeVVNQDhBFX1JJ&apl=0\"},{\"t\":\"Episodio 3\",\"url\":\"https://video.cuevana3.cz/?token=1DVtcDkRZVRRYBEBB&apl=0\"},{\"t\":\"Episodio 4\",\"url\":\"https://video.cuevana3.cz/?token=1G1sGUldSGw4cUVlP&apl=0\"},{\"t\":\"Episodio 5\",\"url\":\"https://video.cuevana3.cz/?token=1UkwHEkQFAB1cXUAP&apl=0\"},{\"t\":\"Episodio 6\",\"url\":\"https://video.cuevana3.cz/?token=1VkINX15bVgFCVgBP&apl=0\"}]}]"
-    },
-    {
-      "title": "El hijo de Chucky (2004)",
-      "type": "pelicula",
-      "year": "2004",
-      "stream": "https://vimeos.net/embed-mxayhqkcsaib.html"
     },
     {
       "title": "El homenaje (2026)",
@@ -437,8 +460,8 @@
       "title": "La Casa de los Espiritus (2026)",
       "type": "serie",
       "year": "2026",
-      "stream": "https://ok.ru/video/13923006876337",
-      "seasons": "[{\"n\":1,\"eps\":[{\"t\":\"Episodio 1\",\"url\":\"https://ok.ru/video/13923006876337\"},{\"t\":\"Episodio 2\",\"url\":\"https://ok.ru/video/13923006941873\"},{\"t\":\"Episodio 3\",\"url\":\"https://ok.ru/video/13923007269553\"}]}]"
+      "stream": "https://vimeos.net/embed-f8r5ynvkg1nj.html",
+      "seasons": "[{\"n\":1,\"eps\":[{\"t\":\"Rosa la bella\",\"url\":\"https://vimeos.net/embed-f8r5ynvkg1nj.html\"},{\"t\":\"Las Tres Marías\",\"url\":\"https://vimeos.net/embed-kti9kwhav8pj.html\"},{\"t\":\"Clara, la clarividente\",\"url\":\"https://vimeos.net/embed-sae6a55f9o0y.html\"},{\"t\":\"Los amantes\",\"url\":\"https://vimeos.net/embed-ird8psbw9xg2.html\"},{\"t\":\"El tiempo de los espíritus\",\"url\":\"https://vimeos.net/embed-3hxchwczot4g.html\"},{\"t\":\"La pequeña Alba\",\"url\":\"https://vimeos.net/embed-0fdrfv351p5p.html\"},{\"t\":\"El terror\",\"url\":\"https://vimeos.net/embed-jhxv5gdjivut.html\"},{\"t\":\"La hora de la verdad\",\"url\":\"https://vimeos.net/embed-m42owyuu9b3n.html\"}]}]"
     },
     {
       "title": "La Roca (1996)",
@@ -492,12 +515,6 @@
       "stream": "https://vimeos.net/embed-kk4hft7libsl.html"
     },
     {
-      "title": "La maldición de Chucky (2013)",
-      "type": "pelicula",
-      "year": "2013",
-      "stream": "https://vimeos.net/embed-rxu0mh65hgbb.html"
-    },
-    {
       "title": "La maldición de Widow's Bay (2026)",
       "type": "serie",
       "year": "2026",
@@ -515,12 +532,6 @@
       "type": "pelicula",
       "year": "2021",
       "stream": "https://ok.ru/videoembed/5427836750476"
-    },
-    {
-      "title": "La novia de Chucky (1998)",
-      "type": "pelicula",
-      "year": "1998",
-      "stream": "https://vimeos.net/embed-si23ex7p2ivy.html"
     },
     {
       "title": "La peli (2007)",
@@ -700,7 +711,7 @@
       "title": "River vs Belgrano | Apertura 2026 LPF",
       "type": "evento",
       "year": "2026",
-      "stream": "https://streamtp-abc.net/global1.php?stream=espnpremium"
+      "stream": "https://ok.ru/video/14283548854961"
     },
     {
       "title": "Rob1n: El poseído (2025)",
@@ -709,22 +720,10 @@
       "stream": "https://vimeos.net/embed-d81vxthk59xr.html"
     },
     {
-      "title": "RoboCop (1987)",
-      "type": "pelicula",
-      "year": "1987",
-      "stream": "https://vimeos.net/embed-jnm1fvafrsum.html"
-    },
-    {
       "title": "RoboCop (2014)",
       "type": "pelicula",
       "year": "2014",
       "stream": "https://vimeos.net/embed-njs1xgoo6x9g.html"
-    },
-    {
-      "title": "RoboCop 2 (1990)",
-      "type": "pelicula",
-      "year": "1990",
-      "stream": "https://vimeos.net/embed-28vx9up8ttom.html"
     },
     {
       "title": "RoboCop 3 (1993)",

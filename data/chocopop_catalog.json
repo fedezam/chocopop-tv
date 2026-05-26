@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-25T23:08:07.200112",
+  "updated": "2026-05-26T23:12:41.019227",
   "total": 148,
   "items": [
     {
@@ -66,6 +66,15 @@
       "year": "2019",
       "stream": "https://vimeos.net/embed-68qeh3r8p3ow.html",
       "genre": "Terror",
+      "source": "chocopop"
+    },
+    {
+      "title": "Berlín y la dama del armiño (2026)",
+      "type": "serie",
+      "year": "2026",
+      "stream": "https://video.cuevana.cz/?token=1EwcFB15CVlZGBQsA&apl=0",
+      "seasons": "[{\"n\":1,\"eps\":[{\"t\":\"La colección\",\"url\":\"https://video.cuevana.cz/?token=1EwcFB15CVlZGBQsA&apl=0\"},{\"t\":\"Un canto a la vida\",\"url\":\"https://video.cuevana.cz/?token=1BVJNUkpACVRYR0VI&apl=0\"},{\"t\":\"El síndrome de Stendhal\",\"url\":\"https://video.cuevana.cz/?token=1FEVWFFpbBgFJXwIN&apl=0\"},{\"t\":\"Naranjas de la China\",\"url\":\"https://video.cuevana.cz/?token=1UFlZVQNXAhVVSlZb&apl=0\"},{\"t\":\"Demolition Boys\",\"url\":\"https://video.cuevana.cz/?token=1VEZHVwNFUFcYBAMI&apl=0\"},{\"t\":\"Pomelo Loves Mandarina\",\"url\":\"https://video.cuevana.cz/?token=1UEJYHwlEGwxLBlkB&apl=0\"},{\"t\":\"La noche de las dos cobras\",\"url\":\"https://video.cuevana.cz/?token=1F15BFVkNC1AfXlRd&apl=0\"},{\"t\":\"La felicidad es del que ama\",\"url\":\"https://video.cuevana.cz/?token=1CQNMDEJbARQVU0tM&apl=0\"}]}]",
+      "genre": "Drama, Crimen, Action & Adventure, Comedia",
       "source": "chocopop"
     },
     {
@@ -456,6 +465,14 @@
       "source": "chocopop"
     },
     {
+      "title": "Estudiantes (LP) vs Independiente Medellín | Libertadores 2026",
+      "type": "evento",
+      "year": "2026",
+      "stream": "https://tvtvpl.com/global2.php?stream=fox1ar",
+      "genre": "Evento",
+      "source": "chocopop"
+    },
+    {
       "title": "Eternamente Joven (1992)",
       "type": "pelicula",
       "year": "1992",
@@ -745,6 +762,14 @@
       "source": "chocopop"
     },
     {
+      "title": "Lanús vs Mirassol | Libertadores 2026",
+      "type": "evento",
+      "year": "2026",
+      "stream": "https://tvtvpl.com/global1.php?stream=espn2",
+      "genre": "Evento",
+      "source": "chocopop"
+    },
+    {
       "title": "Las Rojas (2021)",
       "type": "pelicula",
       "year": "2021",
@@ -901,6 +926,14 @@
       "source": "chocopop"
     },
     {
+      "title": "Palestino vs Deportivo Riestra | Sudamericana 2026",
+      "type": "evento",
+      "year": "2026",
+      "stream": "https://tvtvpl.com/global1.php?stream=espn5",
+      "genre": "Evento",
+      "source": "chocopop"
+    },
+    {
       "title": "Perfect Blue (1998)",
       "type": "pelicula",
       "year": "1998",
@@ -948,22 +981,6 @@
       "year": "2025",
       "stream": "https://vimeos.net/embed-d81vxthk59xr.html",
       "genre": "Terror, Suspense, Drama",
-      "source": "chocopop"
-    },
-    {
-      "title": "RoboCop (2014)",
-      "type": "pelicula",
-      "year": "2014",
-      "stream": "https://vimeos.net/embed-njs1xgoo6x9g.html",
-      "genre": "Acción, Aventura, Crimen, Ciencia ficción, Suspense",
-      "source": "chocopop"
-    },
-    {
-      "title": "RoboCop 3 (1993)",
-      "type": "pelicula",
-      "year": "1993",
-      "stream": "https://vimeos.net/embed-ryg624zyaoik.html",
-      "genre": "Acción, Crimen, Ciencia ficción, Suspense",
       "source": "chocopop"
     },
     {
@@ -1063,22 +1080,6 @@
       "year": "2026",
       "stream": "https://vimeos.net/embed-el3acalc2g0m.html",
       "genre": "Acción, Comedia, Terror",
-      "source": "chocopop"
-    },
-    {
-      "title": "Terminator (1984)",
-      "type": "pelicula",
-      "year": "1984",
-      "stream": "https://vimeos.net/embed-j4l59ik06b74.html",
-      "genre": "Acción, Suspense, Ciencia ficción",
-      "source": "chocopop"
-    },
-    {
-      "title": "Terminator 2: El juicio final (1991)",
-      "type": "pelicula",
-      "year": "1991",
-      "stream": "https://vimeos.net/embed-3prht808n14r.html",
-      "genre": "Acción, Suspense, Ciencia ficción",
       "source": "chocopop"
     },
     {

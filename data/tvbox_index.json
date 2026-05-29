@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-29T12:42:07.015954",
+  "updated": "2026-05-29T23:16:11.583479",
   "items": [
     {
       "title": "(SAP) River vs Belgrano | Apertura 2026 LPF",
@@ -57,12 +57,6 @@
       "year": "2026",
       "stream": "https://video.cuevana.cz/?token=1EwcFB15CVlZGBQsA&apl=0",
       "seasons": "[{\"n\":1,\"eps\":[{\"t\":\"La colección\",\"url\":\"https://video.cuevana.cz/?token=1EwcFB15CVlZGBQsA&apl=0\"},{\"t\":\"Un canto a la vida\",\"url\":\"https://video.cuevana.cz/?token=1BVJNUkpACVRYR0VI&apl=0\"},{\"t\":\"El síndrome de Stendhal\",\"url\":\"https://video.cuevana.cz/?token=1FEVWFFpbBgFJXwIN&apl=0\"},{\"t\":\"Naranjas de la China\",\"url\":\"https://video.cuevana.cz/?token=1UFlZVQNXAhVVSlZb&apl=0\"},{\"t\":\"Demolition Boys\",\"url\":\"https://video.cuevana.cz/?token=1VEZHVwNFUFcYBAMI&apl=0\"},{\"t\":\"Pomelo Loves Mandarina\",\"url\":\"https://video.cuevana.cz/?token=1UEJYHwlEGwxLBlkB&apl=0\"},{\"t\":\"La noche de las dos cobras\",\"url\":\"https://video.cuevana.cz/?token=1F15BFVkNC1AfXlRd&apl=0\"},{\"t\":\"La felicidad es del que ama\",\"url\":\"https://video.cuevana.cz/?token=1CQNMDEJbARQVU0tM&apl=0\"}]}]"
-    },
-    {
-      "title": "Boca vs Universidad Católica | Libertadores 2026",
-      "type": "evento",
-      "year": "2026",
-      "stream": "https://tvtvpl.com/global1.php?stream=espn2"
     },
     {
       "title": "Bronca (2023)",
@@ -537,8 +531,8 @@
       "title": "La nena (2026)",
       "type": "serie",
       "year": "2026",
-      "stream": "https://video.cuevana.st/?token=1Ak1NEUlTEF1dBkVe&apl=0",
-      "seasons": "[{\"n\":1,\"eps\":[{\"t\":\"Episodio 1\",\"url\":\"https://video.cuevana.st/?token=1Ak1NEUlTEF1dBkVe&apl=0\"},{\"t\":\"Episodio 2\",\"url\":\"https://video.cuevana.st/?token=1A1wNCVwMClxeXlFP&apl=0\"},{\"t\":\"Episodio 3\",\"url\":\"https://video.cuevana.st/?token=1E0VcDEUCB1FIUEBO&apl=0\"},{\"t\":\"Episodio 4\",\"url\":\"https://video.cuevana.st/?token=1BAEGU1UGURcbB1RD&apl=0\"},{\"t\":\"Episodio 5\",\"url\":\"https://video.cuevana.st/?token=1UFVbF1JDGwNHBkEI&apl=0\"}]}]"
+      "stream": "https://video.cuevana.cz/?token=3EQ0NCwRHUAFOXUdJ&apl=0",
+      "seasons": "[{\"n\":1,\"eps\":[{\"t\":\"Episodio 1\",\"url\":\"https://video.cuevana.cz/?token=3EQ0NCwRHUAFOXUdJ&apl=0\"},{\"t\":\"Episodio 2\",\"url\":\"https://video.cuevana.cz/?token=3BE1cFwFBGxFLQlAA&apl=0\"},{\"t\":\"Episodio 3\",\"url\":\"https://video.cuevana.cz/?token=3B0cGAEpAEwpKREpe&apl=0\"},{\"t\":\"Episodio 4\",\"url\":\"https://video.cuevana.cz/?token=3FgJFFFxQCgAUUVdW&apl=0\"},{\"t\":\"Episodio 5\",\"url\":\"https://video.cuevana.cz/?token=3GAQDHgBQWgQfVgYN&apl=0\"},{\"t\":\"Episodio 6\",\"url\":\"https://video.cuevana.cz/?token=3EVVTDFICF1VPRllD&apl=0\"},{\"t\":\"Episodio 7\",\"url\":\"https://video.cuevana.cz/?token=3E0VUElVBAAFXQABT&apl=0\"}]}]"
     },
     {
       "title": "La noche mágica (2021)",
@@ -701,6 +695,13 @@
       "stream": "https://vimeos.net/embed-p2881wx7bb20.html"
     },
     {
+      "title": "Por cien millones (2026)",
+      "type": "serie",
+      "year": "2026",
+      "stream": "https://video.cuevana.cz/?token=3FwAMFFVeAQZLB1Vc&apl=0",
+      "seasons": "[{\"n\":1,\"eps\":[{\"t\":\"Episodio 1\",\"url\":\"https://video.cuevana.cz/?token=3FwAMFFVeAQZLB1Vc&apl=0\"},{\"t\":\"Episodio 2\",\"url\":\"https://video.cuevana.cz/?token=3A1oECEZFAAJLUAsK&apl=0\"},{\"t\":\"Episodio 3\",\"url\":\"https://video.cuevana.cz/?token=3EAMHEVxYAFNIWF9P&apl=0\"}]}]"
+    },
+    {
       "title": "Punto Nemo (2025)",
       "type": "serie",
       "year": "2025",
@@ -808,6 +809,12 @@
       "stream": "https://vimeos.net/embed-el3acalc2g0m.html"
     },
     {
+      "title": "Terminator (1984)",
+      "type": "pelicula",
+      "year": "1984",
+      "stream": "https://vimeos.net/embed-j4l59ik06b74.html"
+    },
+    {
       "title": "Terminator 2: El juicio final (1991)",
       "type": "pelicula",
       "year": "1991",
@@ -854,12 +861,6 @@
       "type": "pelicula",
       "year": "2009",
       "stream": "https://ok.ru/videoembed/8580128246367"
-    },
-    {
-      "title": "Tigre vs Alianza Atlético | Sudamericana 2026",
-      "type": "evento",
-      "year": "2026",
-      "stream": "https://tvtvpl.com/global3.php?stream=espn5"
     },
     {
       "title": "Todavía sé lo que hicieron el verano pasado (1998)",

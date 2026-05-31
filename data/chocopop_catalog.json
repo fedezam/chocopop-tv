@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-31T11:28:19.624286",
+  "updated": "2026-05-31T23:02:52.616548",
   "total": 148,
   "items": [
     {
@@ -432,6 +432,14 @@
       "source": "chocopop"
     },
     {
+      "title": "El increíble castillo vagabundo (2004)",
+      "type": "pelicula",
+      "year": "2004",
+      "stream": "https://vimeos.net/embed-rgwccuoeic0z.html",
+      "genre": "Fantasía, Animación, Aventura",
+      "source": "chocopop"
+    },
+    {
       "title": "El viaje de Chihiro (2001)",
       "type": "pelicula",
       "year": "2001",
@@ -514,14 +522,6 @@
       "source": "chocopop"
     },
     {
-      "title": "Gimnasia (J) vs Belgrano | Copa Argentina 2026",
-      "type": "evento",
-      "year": "2026",
-      "stream": "https://streamtp-abc.net/global1.php?stream=tycsports",
-      "genre": "Evento",
-      "source": "chocopop"
-    },
-    {
       "title": "Girls (2012)",
       "type": "serie",
       "year": "2012",
@@ -577,14 +577,6 @@
       "year": "2012",
       "stream": "https://ok.ru/videoembed/9266444044938",
       "genre": "Drama",
-      "source": "chocopop"
-    },
-    {
-      "title": "Instituto vs Lanús | Copa Argentina 2026",
-      "type": "evento",
-      "year": "2026",
-      "stream": "https://streamtp-abc.net/global1.php?stream=tycsports",
-      "genre": "Evento",
       "source": "chocopop"
     },
     {
@@ -923,6 +915,14 @@
       "stream": "https://video.cuevana.cz/?token=1El8CFV5aVFYVS1QP&apl=0",
       "seasons": "[{\"n\":1,\"eps\":[{\"t\":\"Ya era hora\",\"url\":\"https://video.cuevana.cz/?token=1El8CFV5aVFYVS1QP&apl=0\"},{\"t\":\"Rompiendo el protocolo\",\"url\":\"https://video.cuevana.cz/?token=1F0FfD1pQCxMdREVS&apl=0\"},{\"t\":\"Cara a cara\",\"url\":\"https://video.cuevana.cz/?token=1V1xAEERZDFNXQ0FR&apl=0\"},{\"t\":\"Fue un buen día\",\"url\":\"https://video.cuevana.cz/?token=1ClxcF1dWUR0YAlpV&apl=0\"},{\"t\":\"Solo negocios. Nada personal\",\"url\":\"https://video.cuevana.cz/?token=1BkJQBwhXDA4bRwoK&apl=0\"},{\"t\":\"La suerte está echada\",\"url\":\"https://video.cuevana.cz/?token=1UQZfCloMAR9IWlZP&apl=0\"},{\"t\":\"Repercusiones\",\"url\":\"https://video.cuevana.cz/?token=1AEZfU1dZEgcYUAYL&apl=0\"},{\"t\":\"Zugzwang\",\"url\":\"https://video.cuevana.cz/?token=1EgYDHFpNDgRCS1FW&apl=0\"}]}]",
       "genre": "Action & Adventure, Drama, Crimen",
+      "source": "chocopop"
+    },
+    {
+      "title": "Paprika: El reino de los sueños (2006)",
+      "type": "pelicula",
+      "year": "2006",
+      "stream": "https://vimeos.net/embed-i0x5pvtxb0h0.html",
+      "genre": "Animación, Ciencia ficción, Suspense",
       "source": "chocopop"
     },
     {

@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-31T23:02:52.616548",
+  "updated": "2026-06-01T15:48:57.315608",
   "total": 148,
   "items": [
     {
@@ -17,6 +17,14 @@
       "stream": "https://video.cuevana3.cz/?token=1V1oBCUpZGxBYQFxK&apl=0",
       "seasons": "[{\"n\":1,\"eps\":[{\"t\":\"Habitaciones vacías\",\"url\":\"https://video.cuevana3.cz/?token=1V1oBCUpZGxBYQFxK&apl=0\"},{\"t\":\"¿Qué puede salir mal?\",\"url\":\"https://video.cuevana3.cz/?token=1EVFGD1dbARFZXVdR&apl=0\"},{\"t\":\"Rueda de sospechosos\",\"url\":\"https://video.cuevana3.cz/?token=1WQdaVlVDEQddAQEJ&apl=0\"},{\"t\":\"La tormenta después de la tormenta\",\"url\":\"https://video.cuevana3.cz/?token=1AwVAUARHURQbAENa&apl=0\"},{\"t\":\"Confrontación\",\"url\":\"https://video.cuevana3.cz/?token=1VQYHDkNAAAwYXlxQ&apl=0\"},{\"t\":\"Mea Culpa\",\"url\":\"https://video.cuevana3.cz/?token=1UEwAUEJHEQsaUFYB&apl=0\"},{\"t\":\"Daños colaterales\",\"url\":\"https://video.cuevana3.cz/?token=1AERSVQZNVQAeSkZS&apl=0\"},{\"t\":\"Búsqueda\",\"url\":\"https://video.cuevana3.cz/?token=1CVxcXl4EFRxAQgBU&apl=0\"},{\"t\":\"Penitencia\",\"url\":\"https://video.cuevana3.cz/?token=1C1JbU0hQDFMYBkoO&apl=0\"},{\"t\":\"La sentencia\",\"url\":\"https://video.cuevana3.cz/?token=1V1NAH0oEEgZERgQB&apl=0\"}]},{\"n\":2,\"eps\":[{\"t\":\"Un año después\",\"url\":\"https://video.cuevana3.cz/?token=1DkZXDFNcCRJbQldO&apl=0\"},{\"t\":\"El atentado\",\"url\":\"https://video.cuevana3.cz/?token=1UE1HVAZfFQlZXUQN&apl=0\"},{\"t\":\"Verdades irreparables\",\"url\":\"https://video.cuevana3.cz/?token=1F1JNAldMBQpDAUtA&apl=0\"},{\"t\":\"Dardos cruzados\",\"url\":\"https://video.cuevana3.cz/?token=1Ek5SHkANAQdGUVcB&apl=0\"},{\"t\":\"Las máscaras caen\",\"url\":\"https://video.cuevana3.cz/?token=1VF9MCAhGUlBVSl9X&apl=0\"},{\"t\":\"Las ruinas del odio\",\"url\":\"https://video.cuevana3.cz/?token=1FUANAQVWCgJMVAUN&apl=0\"}]}]",
       "genre": "Drama",
+      "source": "chocopop"
+    },
+    {
+      "title": "Akira (1988)",
+      "type": "pelicula",
+      "year": "1988",
+      "stream": "https://vimeos.net/embed-doy32djpwd4e.html",
+      "genre": "Animación, Ciencia ficción, Acción",
       "source": "chocopop"
     },
     {
@@ -514,6 +522,14 @@
       "source": "chocopop"
     },
     {
+      "title": "Ghost in the Shell (1995)",
+      "type": "pelicula",
+      "year": "1995",
+      "stream": "https://ok.ru/videoembed/1966347651620",
+      "genre": "Acción, Animación, Ciencia ficción",
+      "source": "chocopop"
+    },
+    {
       "title": "Gilda: no me arrepiento de este amor (2016)",
       "type": "pelicula",
       "year": "2016",
@@ -560,6 +576,14 @@
       "year": "2022",
       "stream": "https://vimeos.net/embed-n0axpoggc85q.html",
       "genre": "Comedia, Drama",
+      "source": "chocopop"
+    },
+    {
+      "title": "Héroes al rescate (2003)",
+      "type": "pelicula",
+      "year": "2003",
+      "stream": "https://ok.ru/videoembed/9032668416640",
+      "genre": "Animación, Drama, Comedia",
       "source": "chocopop"
     },
     {
@@ -1084,35 +1108,11 @@
       "source": "chocopop"
     },
     {
-      "title": "Terminator 3: La rebelión de las máquinas (2003)",
-      "type": "pelicula",
-      "year": "2003",
-      "stream": "https://vimeos.net/embed-7tow4zsa41oa.html",
-      "genre": "Acción, Suspense, Ciencia ficción",
-      "source": "chocopop"
-    },
-    {
       "title": "Terminator: Destino Oculto (2019)",
       "type": "pelicula",
       "year": "2019",
       "stream": "https://vimeos.net/embed-2bwk7hsmwgrl.html",
       "genre": "Ciencia ficción, Acción, Aventura, Suspense",
-      "source": "chocopop"
-    },
-    {
-      "title": "Terminator: Génesis (2015)",
-      "type": "pelicula",
-      "year": "2015",
-      "stream": "https://vimeos.net/embed-9rgwh0qyot6g.html",
-      "genre": "Ciencia ficción, Acción, Suspense",
-      "source": "chocopop"
-    },
-    {
-      "title": "Terminator: Salvación (2009)",
-      "type": "pelicula",
-      "year": "2009",
-      "stream": "https://vimeos.net/embed-o3f0dnuld8f2.html",
-      "genre": "Acción, Ciencia ficción, Suspense",
       "source": "chocopop"
     },
     {

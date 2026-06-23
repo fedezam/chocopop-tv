@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-22T23:22:31.387391",
+  "updated": "2026-06-23T12:28:01.041475",
   "total": 150,
   "items": [
     {
@@ -228,14 +228,6 @@
       "stream": "https://vidsrc.mov/embed/tv/227042/1/1",
       "seasons": "[{\"n\":1,\"eps\":[{\"t\":\"Episodio 1\",\"url\":\"https://vidsrc.mov/embed/tv/227042/1/1\"},{\"t\":\"Episodio 2\",\"url\":\"https://vidsrc.mov/embed/tv/227042/1/2\"},{\"t\":\"Episodio 3\",\"url\":\"https://vidsrc.mov/embed/tv/227042/1/3\"},{\"t\":\"Episodio 4\",\"url\":\"https://vidsrc.mov/embed/tv/227042/1/4\"},{\"t\":\"Episodio 5\",\"url\":\"https://vidsrc.mov/embed/tv/227042/1/5\"},{\"t\":\"Episodio 6\",\"url\":\"https://vidsrc.mov/embed/tv/227042/1/6\"},{\"t\":\"Episodio 7\",\"url\":\"https://vidsrc.mov/embed/tv/227042/1/7\"}]},{\"n\":2,\"eps\":[{\"t\":\"Episodio 1\",\"url\":\"https://vidsrc.mov/embed/tv/227042/2/1\"},{\"t\":\"Episodio 2\",\"url\":\"https://vidsrc.mov/embed/tv/227042/2/2\"},{\"t\":\"Episodio 3\",\"url\":\"https://vidsrc.mov/embed/tv/227042/2/3\"},{\"t\":\"Episodio 4\",\"url\":\"https://vidsrc.mov/embed/tv/227042/2/4\"},{\"t\":\"Episodio 5\",\"url\":\"https://vidsrc.mov/embed/tv/227042/2/5\"},{\"t\":\"Episodio 6\",\"url\":\"https://vidsrc.mov/embed/tv/227042/2/6\"}]}]",
       "genre": "Drama, Crimen",
-      "source": "chocopop"
-    },
-    {
-      "title": "Condena de amor (2022)",
-      "type": "pelicula",
-      "year": "2022",
-      "stream": "https://vimeos.net/embed-c8ix8017hum0.html",
-      "genre": "Romance, Drama",
       "source": "chocopop"
     },
     {
@@ -723,6 +715,14 @@
       "year": "2014",
       "stream": "https://vimeos.net/embed-d4y9j8jcksku.html",
       "genre": "Suspense, Terror",
+      "source": "chocopop"
+    },
+    {
+      "title": "Jordania vs Argelia | Mundial 2026",
+      "type": "evento",
+      "year": "2026",
+      "stream": "https://todossembbbbdeeelosscanaquii.blogspot.com/p/canemebbeecaaanmeejeeeyvariss.html?id=deetee1-acheee",
+      "genre": "Evento",
       "source": "chocopop"
     },
     {

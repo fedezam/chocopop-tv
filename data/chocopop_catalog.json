@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-05T23:03:35.928840",
+  "updated": "2026-07-06T13:37:50.312554",
   "total": 150,
   "items": [
     {
@@ -469,11 +469,27 @@
       "source": "chocopop"
     },
     {
+      "title": "El despertar del diablo (1981)",
+      "type": "pelicula",
+      "year": "1981",
+      "stream": "https://ok.ru/videoembed/1831387269848",
+      "genre": "Terror",
+      "source": "chocopop"
+    },
+    {
       "title": "El despertar del diablo (2006)",
       "type": "pelicula",
       "year": "2006",
       "stream": "https://vimeos.net/embed-qulhguqn7bw3.html",
       "genre": "Terror, Suspense",
+      "source": "chocopop"
+    },
+    {
+      "title": "El despertar del diablo 2 (1987)",
+      "type": "pelicula",
+      "year": "1987",
+      "stream": "https://ok.ru/videoembed/6187522198058",
+      "genre": "Terror, Comedia, Fantasía",
       "source": "chocopop"
     },
     {
@@ -1082,14 +1098,6 @@
       "source": "chocopop"
     },
     {
-      "title": "Slam Dunk: La Película (2022)",
-      "type": "pelicula",
-      "year": "2022",
-      "stream": "https://vimeos.net/embed-zzc6ni8yvoz9.html",
-      "genre": "Animación, Comedia, Drama",
-      "source": "chocopop"
-    },
-    {
       "title": "Sudáfrica vs Canadá | Mundial 2026",
       "type": "evento",
       "year": "2026",
@@ -1199,14 +1207,6 @@
       "year": "2026",
       "stream": "https://todossembbbbdeeelosscanaquii.blogspot.com/p/canemebbeecaaanmeejeeeyvariss.html?id=deetee1-acheee",
       "genre": "Evento",
-      "source": "chocopop"
-    },
-    {
-      "title": "Voltron: Fleet of Doom (1986)",
-      "type": "pelicula",
-      "year": "1986",
-      "stream": "https://ok.ru/videoembed/8580947446396",
-      "genre": "Animación, Ciencia ficción",
       "source": "chocopop"
     }
   ]

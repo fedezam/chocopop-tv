@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-08T11:42:06.496766",
+  "updated": "2026-07-08T23:10:53.588857",
   "total": 150,
   "items": [
     {
@@ -470,6 +470,14 @@
       "source": "chocopop"
     },
     {
+      "title": "El pasajero del diablo (2026)",
+      "type": "pelicula",
+      "year": "2026",
+      "stream": "https://vimeos.net/embed-w2z6zxbnq12i.html",
+      "genre": "Terror, Suspense",
+      "source": "chocopop"
+    },
+    {
       "title": "El testigo (2026)",
       "type": "serie",
       "year": "2026",
@@ -717,14 +725,6 @@
       "year": "2012",
       "stream": "https://vimeos.net/embed-e1hrs663gfey.html",
       "genre": "Drama",
-      "source": "chocopop"
-    },
-    {
-      "title": "La Ventana Secreta (2004)",
-      "type": "pelicula",
-      "year": "2004",
-      "stream": "https://vimeos.net/embed-2defiwhxx1jj.html",
-      "genre": "Misterio, Suspense",
       "source": "chocopop"
     },
     {

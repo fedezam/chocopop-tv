@@ -1,15 +1,7 @@
 {
-  "updated": "2026-07-09T23:14:15.465780",
+  "updated": "2026-07-10T12:19:41.538669",
   "total": 150,
   "items": [
-    {
-      "title": "(SAP) River vs Belgrano | Apertura 2026 LPF",
-      "type": "evento",
-      "year": "2026",
-      "stream": "https://ok.ru/video/14283957799601",
-      "genre": "Evento",
-      "source": "chocopop"
-    },
     {
       "title": "Akira (1988)",
       "type": "pelicula",
@@ -608,14 +600,6 @@
       "source": "chocopop"
     },
     {
-      "title": "Fórmula 1: Gran Premio de Canadá",
-      "type": "evento",
-      "year": "2026",
-      "stream": "https://cablepratods-praopc-sd-decanles-emb.blogspot.com/p/caneeembbeesoodeeposddd.html?id=foo1-op3-sd-jwp",
-      "genre": "Evento",
-      "source": "chocopop"
-    },
-    {
       "title": "Ghana vs Panamá | Mundial 2026",
       "type": "evento",
       "year": "2026",
@@ -757,6 +741,30 @@
       "year": "2000",
       "stream": "https://vimeos.net/embed-wdmcgq80bprp.html",
       "genre": "Comedia, Romance",
+      "source": "chocopop"
+    },
+    {
+      "title": "La historia sin fin (1984)",
+      "type": "pelicula",
+      "year": "1984",
+      "stream": "https://ok.ru/videoembed/10084961749550",
+      "genre": "Aventura, Fantasía, Familia",
+      "source": "chocopop"
+    },
+    {
+      "title": "La historia sin fin II (1990)",
+      "type": "pelicula",
+      "year": "1990",
+      "stream": "https://ok.ru/videoembed/10085048846894",
+      "genre": "Familia, Fantasía, Aventura, Drama",
+      "source": "chocopop"
+    },
+    {
+      "title": "La historia sin fin III (1994)",
+      "type": "pelicula",
+      "year": "1994",
+      "stream": "https://ok.ru/videoembed/8808901380752",
+      "genre": "Familia, Fantasía, Aventura, Comedia",
       "source": "chocopop"
     },
     {
@@ -1058,14 +1066,6 @@
       "stream": "https://vimeos.net/embed-v2fzvqz6n3ow.html",
       "seasons": "[{\"n\":1,\"eps\":[{\"t\":\"I: UN HOMBRE DIFÍCIL DE ENCONTRAR\",\"url\":\"https://vimeos.net/embed-v2fzvqz6n3ow.html\"},{\"t\":\"II: SIETE OBRAS DE MISERICORDIA\",\"url\":\"https://vimeos.net/embed-m2xhrvj6fge4.html\"},{\"t\":\"III: SOMMERSO\",\"url\":\"https://vimeos.net/embed-zay55ffyzebp.html\"},{\"t\":\"IV: LA DOLCE VITA\",\"url\":\"https://vimeos.net/embed-39jppngmrv82.html\"},{\"t\":\"V: LUCIO\",\"url\":\"https://vimeos.net/embed-84od6gbu0png.html\"},{\"t\":\"VI: UN OBJETO CONTUNDENTE\",\"url\":\"https://vimeos.net/embed-ic368sf73f4s.html\"},{\"t\":\"VII: ENTRETENIMIENTO MACABRO\",\"url\":\"https://vimeos.net/embed-qfv4n0l7blxj.html\"},{\"t\":\"VIII: NARCISSUS\",\"url\":\"https://vimeos.net/embed-3qghm1pvqdwx.html\"}]}]",
       "genre": "Drama",
-      "source": "chocopop"
-    },
-    {
-      "title": "River vs Belgrano | Apertura 2026 LPF",
-      "type": "evento",
-      "year": "2026",
-      "stream": "https://ok.ru/video/14283548854961",
-      "genre": "Evento",
       "source": "chocopop"
     },
     {

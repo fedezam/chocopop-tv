@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-03T12:49:58.278052",
+  "updated": "2026-08-03T23:03:47.514338",
   "total": 150,
   "items": [
     {
@@ -217,6 +217,14 @@
       "type": "evento",
       "year": "2026",
       "stream": "https://streamtp99a.sbs/global1.php?stream=tntsports",
+      "genre": "Evento",
+      "source": "chocopop"
+    },
+    {
+      "title": "Central Córdoba vs San Lorenzo | Clausura 2026",
+      "type": "evento",
+      "year": "2026",
+      "stream": "https://streamx488.sbs/global1.php?channel=fanatiz7",
       "genre": "Evento",
       "source": "chocopop"
     },
@@ -622,6 +630,14 @@
       "source": "chocopop"
     },
     {
+      "title": "Huracán vs Atlético (T) | Clausura 2026",
+      "type": "evento",
+      "year": "2026",
+      "stream": "https://streamx488.sbs/global1.php?channel=fanatiz6",
+      "genre": "Evento",
+      "source": "chocopop"
+    },
+    {
       "title": "Háblame (2023)",
       "type": "pelicula",
       "year": "2023",
@@ -683,14 +699,6 @@
       "year": "2000",
       "stream": "https://ok.ru/videoembed/5159704922800",
       "genre": "Comedia",
-      "source": "chocopop"
-    },
-    {
-      "title": "Japón vs Suecia | Mundial 2026",
-      "type": "evento",
-      "year": "2026",
-      "stream": "https://todossembbbbdeeelosscanaquii.blogspot.com/p/canemebbeecaaanmeejeeeyvariss.html?id=deetee3",
-      "genre": "Evento",
       "source": "chocopop"
     },
     {
@@ -961,18 +969,18 @@
       "source": "chocopop"
     },
     {
-      "title": "Paraguay vs Australia | Mundial 2026",
-      "type": "evento",
-      "year": "2026",
-      "stream": "https://todossembbbbdeeelosscanaquii.blogspot.com/p/canemebbeecaaanmeejeeeyvariss.html?id=deetee2",
-      "genre": "Evento",
-      "source": "chocopop"
-    },
-    {
       "title": "Paraguay vs Francia | Mundial 2026",
       "type": "evento",
       "year": "2026",
       "stream": "https://todossembbbbdeeelosscanaquii.blogspot.com/p/canemebbeecaaanmeejeeeyvariss.html?id=deetee1-acheee",
+      "genre": "Evento",
+      "source": "chocopop"
+    },
+    {
+      "title": "Platense vs Talleres | Clausura 2026",
+      "type": "evento",
+      "year": "2026",
+      "stream": "https://streamtp99a.sbs/global1.php?stream=tntsports",
       "genre": "Evento",
       "source": "chocopop"
     },
@@ -1170,26 +1178,18 @@
       "source": "chocopop"
     },
     {
-      "title": "Turquía vs Estados Unidos | Mundial 2026",
-      "type": "evento",
-      "year": "2026",
-      "stream": "https://todossembbbbdeeelosscanaquii.blogspot.com/p/canemebbeecaaanmeejeeeyvariss.html?id=deetee1-acheee",
-      "genre": "Evento",
-      "source": "chocopop"
-    },
-    {
-      "title": "Túnez vs Paises Bajos | Mundial 2026",
-      "type": "evento",
-      "year": "2026",
-      "stream": "https://todossembbbbdeeelosscanaquii.blogspot.com/p/canemebbeecaaanmeejeeeyvariss.html?id=deetee2",
-      "genre": "Evento",
-      "source": "chocopop"
-    },
-    {
       "title": "Uruguay vs España | Mundial 2026",
       "type": "evento",
       "year": "2026",
       "stream": "https://todossembbbbdeeelosscanaquii.blogspot.com/p/canemebbeecaaanmeejeeeyvariss.html?id=deetee1-acheee",
+      "genre": "Evento",
+      "source": "chocopop"
+    },
+    {
+      "title": "Vélez vs Independiente | Clausura 2026",
+      "type": "evento",
+      "year": "2026",
+      "stream": "https://streamtp99a.sbs/global1.php?stream=espnpremium",
       "genre": "Evento",
       "source": "chocopop"
     },

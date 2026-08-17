@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-17T10:22:14.710870",
+  "updated": "2026-08-17T22:27:08.719606",
   "items": [
     {
       "title": "10 cosas que odio de ti (1999)",
@@ -276,12 +276,6 @@
       "stream": "https://ok.ru/videoembed/1831387269848"
     },
     {
-      "title": "El despertar del diablo (2006)",
-      "type": "pelicula",
-      "year": "2006",
-      "stream": "https://vimeos.net/embed-qulhguqn7bw3.html"
-    },
-    {
       "title": "El despertar del diablo 2 (1987)",
       "type": "pelicula",
       "year": "1987",
@@ -402,6 +396,12 @@
       "stream": "https://streamtp-golden1.click/global1.php?stream=espn"
     },
     {
+      "title": "Estudiantes (RC) vs Atlético (T) | Clausura 2026",
+      "type": "evento",
+      "year": "2026",
+      "stream": "https://streamtp-golden1.click/global1.php?stream=espnpremium"
+    },
+    {
       "title": "Estudiantes (RC) vs Banfield | Clausura 2026",
       "type": "evento",
       "year": "2026",
@@ -456,6 +456,12 @@
       "stream": "https://streamx488.sbs/global1.php?channel=fanatiz6"
     },
     {
+      "title": "Gimnasia (M) vs Talleres | Clausura 2026",
+      "type": "evento",
+      "year": "2026",
+      "stream": "https://streamtp-golden1.click/global1.php?stream=espn"
+    },
+    {
       "title": "Gimnasia (M) vs Unión | Clausura 2026",
       "type": "evento",
       "year": "2026",
@@ -472,12 +478,6 @@
       "type": "evento",
       "year": "2026",
       "stream": "https://streamx488.sbs/global1.php?channel=fanatiz6"
-    },
-    {
-      "title": "Háblame (2023)",
-      "type": "pelicula",
-      "year": "2023",
-      "stream": "https://vimeos.net/embed-8wefdjfu810w.html"
     },
     {
       "title": "Independiente (M) vs Huracán | Clausura 2026",
@@ -520,12 +520,6 @@
       "type": "pelicula",
       "year": "2014",
       "stream": "https://vimeos.net/embed-voyzexg50uaj.html"
-    },
-    {
-      "title": "Irene, Yo y Mi Otro Yo (2000)",
-      "type": "pelicula",
-      "year": "2000",
-      "stream": "https://ok.ru/videoembed/5159704922800"
     },
     {
       "title": "La La Land: Una historia de amor (2016)",
@@ -577,6 +571,12 @@
       "seasons": "[{\"n\":1,\"eps\":[{\"t\":\"Episodio 1\",\"url\":\"https://vimeos.net/embed-navas990hwlt.html\"},{\"t\":\"Episodio 2\",\"url\":\"https://vimeos.net/embed-xagx5cp5cxfz.html\"},{\"t\":\"Episodio 3\",\"url\":\"https://vimeos.net/embed-oh6gz5or74ll.html\"},{\"t\":\"Episodio 4\",\"url\":\"https://vimeos.net/embed-4z2xw1ud9cdj.html\"}]}]"
     },
     {
+      "title": "Lanús vs Independiente | Clausura 2026",
+      "type": "evento",
+      "year": "2026",
+      "stream": "https://streamtp-golden1.click/global1.php?stream=tntsports"
+    },
+    {
       "title": "Lanús vs Instituto | Clausura 2026",
       "type": "evento",
       "year": "2026",
@@ -599,12 +599,6 @@
       "type": "pelicula",
       "year": "2026",
       "stream": "https://ok.ru/videoembed/15338272328369"
-    },
-    {
-      "title": "Loco por Mary (1998)",
-      "type": "pelicula",
-      "year": "1998",
-      "stream": "https://ok.ru/videoembed/11446684420703"
     },
     {
       "title": "Los Infiltrados (2006)",
@@ -877,6 +871,12 @@
       "type": "pelicula",
       "year": "2015",
       "stream": "https://vimeos.net/embed-0n2dxdmas7mm.html"
+    },
+    {
+      "title": "Vélez vs Defensa y Justicia | Clausura 2026",
+      "type": "evento",
+      "year": "2026",
+      "stream": "https://streamtp-golden1.click/global1.php?stream=tntsports"
     },
     {
       "title": "Vélez vs Independiente | Clausura 2026",

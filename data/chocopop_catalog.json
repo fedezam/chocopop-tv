@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-28T06:00:22.775454",
+  "updated": "2026-08-28T21:01:40.131999",
   "total": 148,
   "items": [
     {
@@ -164,18 +164,18 @@
       "source": "chocopop"
     },
     {
-      "title": "Boca Jrs vs Athlético Paranaense | Amistoso Internacional",
-      "type": "evento",
-      "year": "2026",
-      "stream": "https://streamtp.sbs/global1.php?stream=disney1",
-      "genre": "Evento",
-      "source": "chocopop"
-    },
-    {
       "title": "Boca vs Estudiantes (LP) | Clausura 2026",
       "type": "evento",
       "year": "2026",
       "stream": "https://futbollibre.ch/vivo/canales.php?stream=tntsports",
+      "genre": "Evento",
+      "source": "chocopop"
+    },
+    {
+      "title": "Boca vs Lanús | Clausura 2026",
+      "type": "evento",
+      "year": "2026",
+      "stream": "https://tvf90.com/3.php?stream=tntsports",
       "genre": "Evento",
       "source": "chocopop"
     },
@@ -394,14 +394,6 @@
       "type": "pelicula",
       "year": "2024",
       "stream": "https://vimeos.net/embed-hbpxzisapf4e.html",
-      "genre": "Terror, Suspense",
-      "source": "chocopop"
-    },
-    {
-      "title": "El pasajero del diablo (2026)",
-      "type": "pelicula",
-      "year": "2026",
-      "stream": "https://vimeos.net/embed-w2z6zxbnq12i.html",
       "genre": "Terror, Suspense",
       "source": "chocopop"
     },
@@ -1162,6 +1154,14 @@
       "type": "evento",
       "year": "2026",
       "stream": "https://futbollibre.ch/canales.php?stream=tntsports",
+      "genre": "Evento",
+      "source": "chocopop"
+    },
+    {
+      "title": "Unión vs Sarmiento (J) | Clausura 2026",
+      "type": "evento",
+      "year": "2026",
+      "stream": "https://tvf90.com/5.php?stream=espnpremium",
       "genre": "Evento",
       "source": "chocopop"
     },

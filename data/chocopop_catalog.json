@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-30T14:34:39.460441",
+  "updated": "2026-08-31T00:16:19.423873",
   "total": 148,
   "items": [
     {
@@ -111,6 +111,14 @@
       "type": "evento",
       "year": "2026",
       "stream": "https://streamtp-golden1.click/global1.php?stream=fanatiz4",
+      "genre": "Evento",
+      "source": "chocopop"
+    },
+    {
+      "title": "Banfield vs River | Clausura 2026",
+      "type": "evento",
+      "year": "2026",
+      "stream": "https://streamtp-golden1.click/global1.php?stream=fanatiz3",
       "genre": "Evento",
       "source": "chocopop"
     },
@@ -534,14 +542,6 @@
       "source": "chocopop"
     },
     {
-      "title": "Francia vs Marruecos | Mundial 2026",
-      "type": "evento",
-      "year": "2026",
-      "stream": "https://todossembbbbdeeelosscanaquii.blogspot.com/p/canemebbeecaaanmeejeeeyvariss.html?id=deetee1-acheee",
-      "genre": "Evento",
-      "source": "chocopop"
-    },
-    {
       "title": "Gimnasia (LP) vs Barracas | Clausura 2026",
       "type": "evento",
       "year": "2026",
@@ -726,14 +726,6 @@
       "source": "chocopop"
     },
     {
-      "title": "La historia sin fin (1984)",
-      "type": "pelicula",
-      "year": "1984",
-      "stream": "https://ok.ru/videoembed/10084961749550",
-      "genre": "Aventura, Fantasía, Familia",
-      "source": "chocopop"
-    },
-    {
       "title": "La historia sin fin II (1990)",
       "type": "pelicula",
       "year": "1990",
@@ -819,6 +811,15 @@
       "year": "1995",
       "stream": "https://vimeos.net/embed-norplvwfl6iq.html",
       "genre": "Drama, Romance",
+      "source": "chocopop"
+    },
+    {
+      "title": "Materia oscura (2024)",
+      "type": "serie",
+      "year": "2024",
+      "stream": "https://vimeos.net/embed-dcp3d6on93v6.html",
+      "seasons": "[{\"n\":1,\"eps\":[{\"t\":\"¿Eres feliz con tu vida?\",\"url\":\"https://vimeos.net/embed-dcp3d6on93v6.html\"},{\"t\":\"Un viaje inolvidable\",\"url\":\"https://vimeos.net/embed-s23et4qrj5tv.html\"},{\"t\":\"La caja\",\"url\":\"https://vimeos.net/embed-eipyfbpbil2q.html\"},{\"t\":\"El corredor\",\"url\":\"https://vimeos.net/embed-rx1klfr28dev.html\"},{\"t\":\"Sin palabras\",\"url\":\"https://vimeos.net/embed-a04gieyyoo0e.html\"},{\"t\":\"Superposición\",\"url\":\"https://vimeos.net/embed-j3kwr43kbt5u.html\"},{\"t\":\"En el fuego de las estrellas muertas\",\"url\":\"https://vimeos.net/embed-4wv80dpx0d99.html\"},{\"t\":\"Júpiter\",\"url\":\"https://vimeos.net/embed-csqk1hhst5ew.html\"},{\"t\":\"Entrelazados\",\"url\":\"https://vimeos.net/embed-h788x2wcvzfq.html\"}]},{\"n\":2,\"eps\":[{\"t\":\"Una vida tranquila\",\"url\":\"https://vimeos.net/embed-xnoadygfm0ll.html\"}]}]",
+      "genre": "Sci-Fi & Fantasy, Drama",
       "source": "chocopop"
     },
     {

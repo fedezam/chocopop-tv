@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-26T13:57:51.797560",
+  "updated": "2026-09-27T00:20:29.754876",
   "total": 148,
   "items": [
     {
@@ -413,6 +413,14 @@
       "source": "chocopop"
     },
     {
+      "title": "Estudiantes (LP) vs Rosario Central | Supercopa Internacional",
+      "type": "evento",
+      "year": "2026",
+      "stream": "https://sudamericafy.com/global1.php?stream=dsports_eventos",
+      "genre": "Evento",
+      "source": "chocopop"
+    },
+    {
       "title": "Estudiantes (LP) vs Universidad Católica | Libertadores 2026",
       "type": "evento",
       "year": "2026",
@@ -433,14 +441,6 @@
       "type": "evento",
       "year": "2026",
       "stream": "https://futbollibre.ch/online/canales.php?stream=tntsports",
-      "genre": "Evento",
-      "source": "chocopop"
-    },
-    {
-      "title": "Estudiantes (RC) vs Tigre | Clausura 2026",
-      "type": "evento",
-      "year": "2026",
-      "stream": "https://streamtp99a.sbs/global1.php?stream=tntsports",
       "genre": "Evento",
       "source": "chocopop"
     },

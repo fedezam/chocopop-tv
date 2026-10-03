@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-02T16:01:13.942656",
+  "updated": "2026-10-03T00:59:17.807205",
   "total": 148,
   "items": [
     {
@@ -151,6 +151,14 @@
       "type": "evento",
       "year": "2026",
       "stream": "https://streamtp-golden1.click/global1.php?stream=espn",
+      "genre": "Evento",
+      "source": "chocopop"
+    },
+    {
+      "title": "Boca vs Unión | Clausura 2026",
+      "type": "evento",
+      "year": "2026",
+      "stream": "https://streamxhd.com/live1.php?stream=disney14",
       "genre": "Evento",
       "source": "chocopop"
     },
@@ -581,6 +589,14 @@
       "source": "chocopop"
     },
     {
+      "title": "Independiente vs Instituto | Clausura 2026",
+      "type": "evento",
+      "year": "2026",
+      "stream": "https://la18hd.su/vivo/canal.php?stream=espnpremium",
+      "genre": "Evento",
+      "source": "chocopop"
+    },
+    {
       "title": "Independiente vs Newell's | Clausura 2026",
       "type": "evento",
       "year": "2026",
@@ -814,14 +830,6 @@
       "source": "chocopop"
     },
     {
-      "title": "Newell's vs Talleres | Clausura 2026",
-      "type": "evento",
-      "year": "2026",
-      "stream": "https://streamtp99a.sbs/global1.php?stream=espnpremium",
-      "genre": "Evento",
-      "source": "chocopop"
-    },
-    {
       "title": "Nunca debimos entrar (2026)",
       "type": "pelicula",
       "year": "2026",
@@ -914,14 +922,6 @@
       "type": "evento",
       "year": "2026",
       "stream": "https://streamtp-golden1.click/global1.php?stream=espnpremium",
-      "genre": "Evento",
-      "source": "chocopop"
-    },
-    {
-      "title": "River vs Barracas | Clausura 2026",
-      "type": "evento",
-      "year": "2026",
-      "stream": "https://streamtp99a.sbs/global1.php?stream=espn",
       "genre": "Evento",
       "source": "chocopop"
     },

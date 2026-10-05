@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-04T15:02:13.287338",
+  "updated": "2026-10-05T00:32:48.585910",
   "total": 148,
   "items": [
     {
@@ -525,6 +525,14 @@
       "source": "chocopop"
     },
     {
+      "title": "Huracán vs Aldosivi | Clausura 2026",
+      "type": "evento",
+      "year": "2026",
+      "stream": "https://streamxhd.com/live1.php?stream=tntsports",
+      "genre": "Evento",
+      "source": "chocopop"
+    },
+    {
       "title": "Huracán vs Atlético (T) | Clausura 2026",
       "type": "evento",
       "year": "2026",
@@ -697,14 +705,6 @@
       "type": "evento",
       "year": "2026",
       "stream": "https://futbollibre.ch/vivo/canales.php?stream=tntsports",
-      "genre": "Evento",
-      "source": "chocopop"
-    },
-    {
-      "title": "Lanús vs San Lorenzo | Clausura 2026",
-      "type": "evento",
-      "year": "2026",
-      "stream": "https://streamtp99a.sbs/global1.php?stream=espnpremium",
       "genre": "Evento",
       "source": "chocopop"
     },
@@ -1038,14 +1038,6 @@
       "source": "chocopop"
     },
     {
-      "title": "Scary Movie: Terroríficamente incorrecta (2026)",
-      "type": "pelicula",
-      "year": "2026",
-      "stream": "https://vimeos.net/embed-3ik1mrxf99gx.html",
-      "genre": "Comedia, Terror",
-      "source": "chocopop"
-    },
-    {
       "title": "Se7en: Los Siete Pecados Capitales (1995)",
       "type": "pelicula",
       "year": "1995",
@@ -1075,6 +1067,14 @@
       "year": "2026",
       "stream": "https://vimeos.net/embed-3lrsrb8yg9r7.html",
       "genre": "Acción, Aventura, Ciencia ficción",
+      "source": "chocopop"
+    },
+    {
+      "title": "Talleres vs Belgrano | Clausura 2026",
+      "type": "evento",
+      "year": "2026",
+      "stream": "https://streamxhd.com/live1.php?stream=espnpremium",
+      "genre": "Evento",
       "source": "chocopop"
     },
     {

@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-06T16:23:45.600461",
+  "updated": "2026-10-07T01:15:19.490504",
   "total": 148,
   "items": [
     {
@@ -926,14 +926,6 @@
       "source": "chocopop"
     },
     {
-      "title": "River vs Huracán | Clausura 2026",
-      "type": "evento",
-      "year": "2026",
-      "stream": "https://la18hd.su/vivo/canales.php?stream=disney17",
-      "genre": "Evento",
-      "source": "chocopop"
-    },
-    {
       "title": "River vs Independiente (M) | Clausura 2026",
       "type": "evento",
       "year": "2026",
@@ -1035,6 +1027,14 @@
       "year": "2026",
       "stream": "https://streamtp-golden1.click/global1.php?stream=fanatiz4",
       "genre": "Evento",
+      "source": "chocopop"
+    },
+    {
+      "title": "Scary Movie: Terroríficamente incorrecta (2026)",
+      "type": "pelicula",
+      "year": "2026",
+      "stream": "https://vimeos.net/embed-3ik1mrxf99gx.html",
+      "genre": "Comedia, Terror",
       "source": "chocopop"
     },
     {

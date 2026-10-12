@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-11T16:03:36.367087",
+  "updated": "2026-10-12T01:04:40.359092",
   "total": 148,
   "items": [
     {
@@ -39,14 +39,6 @@
       "type": "evento",
       "year": "2026",
       "stream": "https://streamtp-golden1.click/global1.php?stream=espnpremium",
-      "genre": "Evento",
-      "source": "chocopop"
-    },
-    {
-      "title": "Atlético (T) vs Independiente (M) | Clausura 2026",
-      "type": "evento",
-      "year": "2026",
-      "stream": "https://streamtp99a.sbs/global1.php?stream=espnpremium",
       "genre": "Evento",
       "source": "chocopop"
     },
@@ -401,14 +393,6 @@
       "type": "evento",
       "year": "2026",
       "stream": "https://streamtp-golden1.click/global1.php?stream=fanatiz8",
-      "genre": "Evento",
-      "source": "chocopop"
-    },
-    {
-      "title": "Estudiantes (LP) vs Independiente | Clausura 2026",
-      "type": "evento",
-      "year": "2026",
-      "stream": "https://streamtp99a.sbs/global1.php?stream=fanatiz7",
       "genre": "Evento",
       "source": "chocopop"
     },
@@ -886,6 +870,14 @@
       "source": "chocopop"
     },
     {
+      "title": "Racing vs Belgrano | Clausura 2026",
+      "type": "evento",
+      "year": "2026",
+      "stream": "https://tvf90.com/3.php?stream=espnpremium",
+      "genre": "Evento",
+      "source": "chocopop"
+    },
+    {
       "title": "Racing vs Boca | Clausura 2026",
       "type": "evento",
       "year": "2026",
@@ -1074,6 +1066,14 @@
       "type": "evento",
       "year": "2026",
       "stream": "https://streamxhd.com/live1.php?stream=espnpremium",
+      "genre": "Evento",
+      "source": "chocopop"
+    },
+    {
+      "title": "Talleres vs Independiente | Clausura 2026",
+      "type": "evento",
+      "year": "2026",
+      "stream": "https://tvf90.com/1.php?stream=tntsports",
       "genre": "Evento",
       "source": "chocopop"
     },

@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-16T00:08:26.460960",
+  "updated": "2026-10-16T14:24:34.084168",
   "total": 148,
   "items": [
     {
@@ -237,14 +237,6 @@
       "source": "chocopop"
     },
     {
-      "title": "Deportivo Riestra vs Boca | Clausura 2026",
-      "type": "evento",
-      "year": "2026",
-      "stream": "https://streamtp99a.sbs/global1.php?stream=fanatiz3",
-      "genre": "Evento",
-      "source": "chocopop"
-    },
-    {
       "title": "Deportivo Riestra vs Gimnasia (LP) | Copa Argentina 2026",
       "type": "evento",
       "year": "2026",
@@ -386,6 +378,14 @@
       "year": "2025",
       "stream": "https://vimeos.net/embed-m0kiqdrwe6dz.html",
       "genre": "Terror, Comedia",
+      "source": "chocopop"
+    },
+    {
+      "title": "Estudiantes (LP) vs Flamengo | Libertadores 2026",
+      "type": "evento",
+      "year": "2026",
+      "stream": "https://tvf90.com/1.php?stream=foxsports",
+      "genre": "Evento",
       "source": "chocopop"
     },
     {

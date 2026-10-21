@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-20T14:34:08.429375",
+  "updated": "2026-10-21T00:25:43.322112",
   "total": 148,
   "items": [
     {
@@ -362,14 +362,6 @@
       "year": "2024",
       "stream": "https://vimeos.net/embed-hbpxzisapf4e.html",
       "genre": "Terror, Suspense",
-      "source": "chocopop"
-    },
-    {
-      "title": "El paso Dyatlov (2013)",
-      "type": "pelicula",
-      "year": "2013",
-      "stream": "https://vimeos.net/embed-644aqdnt26io.html",
-      "genre": "Suspense, Misterio",
       "source": "chocopop"
     },
     {
@@ -1154,6 +1146,14 @@
       "type": "evento",
       "year": "2026",
       "stream": "https://tvf90.com/5.php?stream=espnpremium",
+      "genre": "Evento",
+      "source": "chocopop"
+    },
+    {
+      "title": "Vasco vs Boca | Sudamericana 2026",
+      "type": "evento",
+      "year": "2026",
+      "stream": "https://streamtp99a.sbs/return/dsports-fullHD-recomendado.html",
       "genre": "Evento",
       "source": "chocopop"
     },
